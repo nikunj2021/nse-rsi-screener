@@ -4,7 +4,7 @@ Reads the three JSON report files produced by the screeners
 and writes docs/index.html (served via GitHub Pages).
 """
 
-import json, os
+import json, os, shutil
 from datetime import datetime
 
 BASE_DIR    = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -115,6 +115,15 @@ def build_html():
         active    = "active" if i == 0 else ""
         idx       = i
 
+        # Copy xlsx into docs/ so GitHub Pages can serve the download
+        src_xlsx = os.path.join(REPORTS_DIR, xlsx_name)
+        dst_xlsx = os.path.join(DOCS_DIR, xlsx_name)
+        if os.path.exists(src_xlsx):
+            shutil.copy2(src_xlsx, dst_xlsx)
+            print(f"  Copied {xlsx_name} -> docs/")
+        else:
+            print(f"  Warning: {xlsx_name} not found in reports/")
+
         tab_buttons += f'<button class="tab-btn {active}" onclick="switchTab({idx})">{label} <span class="badge">{len(screened)}</span></button>\n'
 
         tab_contents += f'''
@@ -124,7 +133,7 @@ def build_html():
       <h2>{label} — Screener Results</h2>
       <p class="meta">Generated: {generated} &nbsp;|&nbsp; {len(screened)} stock(s) passed filters</p>
     </div>
-    <a href="../reports/{xlsx_name}" class="dl-btn" download>⬇ Download Excel</a>
+    <a href="{xlsx_name}" class="dl-btn" download>⬇ Download Excel</a>
   </div>
   {screened_table(screened)}
 
