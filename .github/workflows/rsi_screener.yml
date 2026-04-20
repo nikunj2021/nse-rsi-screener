@@ -35,7 +35,7 @@ jobs:
       # ── 4. Run Nifty 50 screener ─────────────────────────────────────────────
       - name: Run Nifty 50 Screener
         run: python scripts/RSINSE50.py
-        continue-on-error: true   # don't abort if one screener fails
+        continue-on-error: true
 
       # ── 5. Run Nifty MidSmallCap 250 screener ───────────────────────────────
       - name: Run Nifty MidSmallCap 250 Screener
@@ -58,4 +58,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add reports/ docs/
           git diff --cached --quiet || git commit -m "📊 Weekly RSI Screener Report – $(date +'%Y-%m-%d')"
+          git pull --rebase origin main
           git push
