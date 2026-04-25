@@ -3,7 +3,7 @@ name: RSI Screener – Weekly Run
 on:
   schedule:
     # Every Saturday at 03:30 UTC  =  09:00 AM IST (UTC+5:30)
-    - cron: '30 3 * * 6'
+    - cron: '28 3 * * 6'
 
   # Allow manual trigger from GitHub Actions tab
   workflow_dispatch:
