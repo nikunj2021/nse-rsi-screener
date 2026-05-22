@@ -60,3 +60,13 @@ jobs:
           git diff --cached --quiet || git commit -m "📊 Weekly RSI Screener Report – $(date +'%Y-%m-%d')"
           git pull --rebase origin main
           git push
+
+      # ── 9. Send Telegram alerts ──────────────────────────────────────────────
+      - name: Send Telegram Alerts
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+          DASHBOARD_URL:      https://nikunj2021.github.io/nse-rsi-screener/
+        run: python scripts/send_telegram.py
+        # Don't fail the whole workflow if Telegram is unreachable
+        continue-on-error: true
