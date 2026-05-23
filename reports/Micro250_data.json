@@ -1,6 +1,6 @@
 {
   "label": "Nifty Microcap 250",
-  "generated": "2026-05-22 16:54 UTC",
+  "generated": "2026-05-23 09:36 UTC",
   "screened": [
     {
       "Symbol": "ANURAS",
@@ -11,7 +11,7 @@
       "ADX": 25.6,
       "EMA_150": 1250.4,
       "EMA_200": 1213.33,
-      "Avg_Volume": 338416,
+      "Avg_Volume": 338425,
       "MarketCap_Cr": 15553.0
     },
     {
@@ -35,7 +35,7 @@
       "ADX": 50.64,
       "EMA_150": 1010.23,
       "EMA_200": 995.7,
-      "Avg_Volume": 379596,
+      "Avg_Volume": 379610,
       "MarketCap_Cr": 11155.0
     },
     {
@@ -47,7 +47,7 @@
       "ADX": 26.67,
       "EMA_150": 1743.05,
       "EMA_200": 1709.9,
-      "Avg_Volume": 584364,
+      "Avg_Volume": 584401,
       "MarketCap_Cr": 13172.0
     },
     {
@@ -59,7 +59,7 @@
       "ADX": 28.17,
       "EMA_150": 290.58,
       "EMA_200": 287.34,
-      "Avg_Volume": 734013,
+      "Avg_Volume": 734024,
       "MarketCap_Cr": 5985.0
     },
     {
@@ -71,7 +71,7 @@
       "ADX": 26.89,
       "EMA_150": 3957.29,
       "EMA_200": 3859.81,
-      "Avg_Volume": 151828,
+      "Avg_Volume": 151829,
       "MarketCap_Cr": 12437.0
     },
     {
@@ -83,7 +83,7 @@
       "ADX": 23.66,
       "EMA_150": 137.34,
       "EMA_200": 133.61,
-      "Avg_Volume": 1170635,
+      "Avg_Volume": 1170638,
       "MarketCap_Cr": 7497.0
     },
     {
@@ -95,7 +95,7 @@
       "ADX": 25.51,
       "EMA_150": 218.8,
       "EMA_200": 213.0,
-      "Avg_Volume": 3249038,
+      "Avg_Volume": 3249117,
       "MarketCap_Cr": 10003.0
     },
     {
@@ -107,7 +107,7 @@
       "ADX": 32.3,
       "EMA_150": 3923.62,
       "EMA_200": 3540.42,
-      "Avg_Volume": 1522731,
+      "Avg_Volume": 1522738,
       "MarketCap_Cr": 24840.0
     },
     {
@@ -119,7 +119,7 @@
       "ADX": 37.62,
       "EMA_150": 2041.39,
       "EMA_200": 1933.92,
-      "Avg_Volume": 340211,
+      "Avg_Volume": 340214,
       "MarketCap_Cr": 17788.0
     },
     {
@@ -131,7 +131,7 @@
       "ADX": 36.77,
       "EMA_150": 2223.36,
       "EMA_200": 2159.04,
-      "Avg_Volume": 531436,
+      "Avg_Volume": 531437,
       "MarketCap_Cr": 12397.0
     },
     {
@@ -143,7 +143,7 @@
       "ADX": 34.82,
       "EMA_150": 202.48,
       "EMA_200": 183.44,
-      "Avg_Volume": 6428792,
+      "Avg_Volume": 6428806,
       "MarketCap_Cr": 21536.0
     },
     {
@@ -155,7 +155,7 @@
       "ADX": 29.14,
       "EMA_150": 951.69,
       "EMA_200": 934.16,
-      "Avg_Volume": 373720,
+      "Avg_Volume": 373721,
       "MarketCap_Cr": 10629.0
     },
     {
@@ -191,7 +191,7 @@
       "ADX": 21.82,
       "EMA_150": 714.45,
       "EMA_200": 697.35,
-      "Avg_Volume": 483591,
+      "Avg_Volume": 483597,
       "MarketCap_Cr": 8307.0
     }
   ],

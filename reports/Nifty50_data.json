@@ -1,6 +1,6 @@
 {
   "label": "Nifty 50",
-  "generated": "2026-05-22 16:48 UTC",
+  "generated": "2026-05-23 09:29 UTC",
   "screened": [
     {
       "Symbol": "ADANIPORTS",
@@ -23,7 +23,7 @@
       "ADX": 20.25,
       "EMA_150": 9474.88,
       "EMA_200": 9350.55,
-      "Avg_Volume": 410631,
+      "Avg_Volume": 410632,
       "MarketCap_Cr": 294618.0
     },
     {
@@ -47,7 +47,7 @@
       "ADX": 21.08,
       "EMA_150": 922.39,
       "EMA_200": 889.19,
-      "Avg_Volume": 5066951,
+      "Avg_Volume": 5066973,
       "MarketCap_Cr": 248034.0
     },
     {
@@ -71,7 +71,7 @@
       "ADX": 43.95,
       "EMA_150": 1295.35,
       "EMA_200": 1276.63,
-      "Avg_Volume": 2350840,
+      "Avg_Volume": 2350842,
       "MarketCap_Cr": 274418.0
     },
     {
@@ -83,7 +83,7 @@
       "ADX": 24.49,
       "EMA_150": 264.8,
       "EMA_200": 259.52,
-      "Avg_Volume": 16561833,
+      "Avg_Volume": 16561907,
       "MarketCap_Cr": 364828.0
     }
   ],
