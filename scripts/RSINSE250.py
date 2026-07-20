@@ -80,18 +80,31 @@ def compute_ema(series, period):
 
 
 def compute_adx(high, low, close, period=14):
+    """Wilder's ADX — matches TradingView / standard charting platforms."""
+    up_move   = high.diff()
+    down_move = -low.diff()  # low[i-1] - low[i]
+
+    dm_pos = pd.Series(
+        np.where((up_move > down_move) & (up_move > 0), up_move, 0.0),
+        index=high.index,
+    )
+    dm_neg = pd.Series(
+        np.where((down_move > up_move) & (down_move > 0), down_move, 0.0),
+        index=high.index,
+    )
+
     tr = pd.concat([
         high - low,
         (high - close.shift()).abs(),
         (low  - close.shift()).abs()
     ], axis=1).max(axis=1)
-    dm_pos = high.diff().clip(lower=0).where(high.diff() > low.diff().abs(), 0)
-    dm_neg = low.diff().abs().clip(lower=0).where(low.diff().abs() > high.diff(), 0)
-    atr    = tr.ewm(span=period, adjust=False).mean()
-    di_pos = 100 * dm_pos.ewm(span=period, adjust=False).mean() / atr
-    di_neg = 100 * dm_neg.ewm(span=period, adjust=False).mean() / atr
+
+    # Wilder smoothing = ewm(alpha=1/period, adjust=False), NOT span=period
+    atr    = tr.ewm(alpha=1 / period, adjust=False).mean()
+    di_pos = 100 * dm_pos.ewm(alpha=1 / period, adjust=False).mean() / atr
+    di_neg = 100 * dm_neg.ewm(alpha=1 / period, adjust=False).mean() / atr
     dx  = (100 * (di_pos - di_neg).abs() / (di_pos + di_neg)).replace([np.inf, -np.inf], np.nan)
-    adx = dx.ewm(span=period, adjust=False).mean()
+    adx = dx.ewm(alpha=1 / period, adjust=False).mean()
     return round(float(adx.iloc[-1]), 2)
 
 
