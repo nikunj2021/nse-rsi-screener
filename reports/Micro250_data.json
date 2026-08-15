@@ -1,2244 +1,2232 @@
 {
   "label": "Nifty Microcap 250",
-  "generated": "2026-08-08 04:34 UTC",
+  "generated": "2026-08-15 03:59 UTC",
   "screened": [
     {
       "Symbol": "SMLMAH",
-      "Current_Price": 5554.0,
-      "Daily_RSI": 67.86,
-      "Weekly_RSI": 68.89,
-      "Monthly_RSI": 69.14,
-      "ADX": 34.38,
-      "EMA_150": 4002.28,
-      "EMA_200": 3856.64,
-      "Avg_Volume": 220171,
-      "MarketCap_Cr": 8038.0
+      "Current_Price": 5134.5,
+      "Daily_RSI": 57.77,
+      "Weekly_RSI": 62.04,
+      "Monthly_RSI": 65.02,
+      "ADX": 34.8,
+      "EMA_150": 4078.3,
+      "EMA_200": 3920.89,
+      "Avg_Volume": 233094,
+      "MarketCap_Cr": 7430.0
     },
     {
       "Symbol": "CUPID",
-      "Current_Price": 262.13,
-      "Daily_RSI": 78.05,
-      "Weekly_RSI": 91.88,
-      "Monthly_RSI": 92.46,
-      "ADX": 28.21,
-      "EMA_150": 141.39,
-      "EMA_200": 125.43,
-      "Avg_Volume": 41787626,
-      "MarketCap_Cr": 35248.0
+      "Current_Price": 293.88,
+      "Daily_RSI": 84.78,
+      "Weekly_RSI": 93.46,
+      "Monthly_RSI": 93.4,
+      "ADX": 33.09,
+      "EMA_150": 151.7,
+      "EMA_200": 134.16,
+      "Avg_Volume": 44450410,
+      "MarketCap_Cr": 39517.0
     },
     {
       "Symbol": "DIACABS",
-      "Current_Price": 364.05,
-      "Daily_RSI": 81.78,
-      "Weekly_RSI": 88.6,
-      "Monthly_RSI": 81.47,
-      "ADX": 55.06,
-      "EMA_150": 197.92,
-      "EMA_200": 185.98,
-      "Avg_Volume": 7884355,
-      "MarketCap_Cr": 19184.0
+      "Current_Price": 368.5,
+      "Daily_RSI": 80.65,
+      "Weekly_RSI": 88.84,
+      "Monthly_RSI": 81.7,
+      "ADX": 57.95,
+      "EMA_150": 208.71,
+      "EMA_200": 194.68,
+      "Avg_Volume": 7519480,
+      "MarketCap_Cr": 22039.0
+    },
+    {
+      "Symbol": "MTARTECH",
+      "Current_Price": 7234.0,
+      "Daily_RSI": 61.86,
+      "Weekly_RSI": 60.33,
+      "Monthly_RSI": 70.35,
+      "ADX": 28.34,
+      "EMA_150": 5542.99,
+      "EMA_200": 5047.68,
+      "Avg_Volume": 200720,
+      "MarketCap_Cr": 21704.0
     },
     {
       "Symbol": "KTKBANK",
-      "Current_Price": 310.0,
-      "Daily_RSI": 71.43,
-      "Weekly_RSI": 74.6,
-      "Monthly_RSI": 73.83,
-      "ADX": 35.1,
-      "EMA_150": 248.59,
-      "EMA_200": 239.5,
-      "Avg_Volume": 2783412,
-      "MarketCap_Cr": 11724.0
+      "Current_Price": 309.65,
+      "Daily_RSI": 65.1,
+      "Weekly_RSI": 74.37,
+      "Monthly_RSI": 73.79,
+      "ADX": 40.38,
+      "EMA_150": 252.47,
+      "EMA_200": 242.86,
+      "Avg_Volume": 2884391,
+      "MarketCap_Cr": 11710.0
     },
     {
       "Symbol": "AVALON",
-      "Current_Price": 1965.3,
-      "Daily_RSI": 67.9,
-      "Weekly_RSI": 79.85,
-      "Monthly_RSI": 79.04,
-      "ADX": 23.06,
-      "EMA_150": 1378.0,
-      "EMA_200": 1293.03,
-      "Avg_Volume": 403985,
-      "MarketCap_Cr": 13131.0
-    },
-    {
-      "Symbol": "PRICOLLTD",
-      "Current_Price": 761.45,
-      "Daily_RSI": 82.75,
-      "Weekly_RSI": 71.22,
-      "Monthly_RSI": 68.03,
-      "ADX": 45.31,
-      "EMA_150": 592.74,
-      "EMA_200": 581.86,
-      "Avg_Volume": 646648,
-      "MarketCap_Cr": 8994.0
+      "Current_Price": 1940.8,
+      "Daily_RSI": 61.99,
+      "Weekly_RSI": 77.58,
+      "Monthly_RSI": 78.72,
+      "ADX": 32.14,
+      "EMA_150": 1419.52,
+      "EMA_200": 1329.27,
+      "Avg_Volume": 416629,
+      "MarketCap_Cr": 12967.0
     },
     {
       "Symbol": "STLTECH",
-      "Current_Price": 638.9,
-      "Daily_RSI": 65.93,
-      "Weekly_RSI": 73.77,
-      "Monthly_RSI": 84.02,
-      "ADX": 24.72,
-      "EMA_150": 395.18,
-      "EMA_200": 348.48,
-      "Avg_Volume": 2475008,
-      "MarketCap_Cr": 32834.0
-    },
-    {
-      "Symbol": "WABAG",
-      "Current_Price": 1957.7,
-      "Daily_RSI": 47.94,
-      "Weekly_RSI": 63.1,
-      "Monthly_RSI": 66.28,
-      "ADX": 21.23,
-      "EMA_150": 1645.92,
-      "EMA_200": 1591.95,
-      "Avg_Volume": 795255,
-      "MarketCap_Cr": 12219.0
+      "Current_Price": 647.75,
+      "Daily_RSI": 63.11,
+      "Weekly_RSI": 74.27,
+      "Monthly_RSI": 84.25,
+      "ADX": 25.07,
+      "EMA_150": 411.19,
+      "EMA_200": 362.82,
+      "Avg_Volume": 2371715,
+      "MarketCap_Cr": 33289.0
     },
     {
       "Symbol": "GOKULAGRO",
-      "Current_Price": 224.53,
-      "Daily_RSI": 56.98,
-      "Weekly_RSI": 60.3,
-      "Monthly_RSI": 65.38,
-      "ADX": 23.52,
-      "EMA_150": 205.6,
-      "EMA_200": 199.29,
-      "Avg_Volume": 481404,
-      "MarketCap_Cr": 6752.0
+      "Current_Price": 235.34,
+      "Daily_RSI": 64.68,
+      "Weekly_RSI": 61.45,
+      "Monthly_RSI": 65.82,
+      "ADX": 28.33,
+      "EMA_150": 207.47,
+      "EMA_200": 201.06,
+      "Avg_Volume": 516900,
+      "MarketCap_Cr": 6836.0
     },
     {
       "Symbol": "UJJIVANSFB",
-      "Current_Price": 70.11,
-      "Daily_RSI": 60.05,
-      "Weekly_RSI": 65.91,
-      "Monthly_RSI": 65.13,
-      "ADX": 47.58,
-      "EMA_150": 58.88,
-      "EMA_200": 57.25,
-      "Avg_Volume": 25708596,
-      "MarketCap_Cr": 13661.0
+      "Current_Price": 71.19,
+      "Daily_RSI": 60.52,
+      "Weekly_RSI": 68.23,
+      "Monthly_RSI": 67.13,
+      "ADX": 45.79,
+      "EMA_150": 59.5,
+      "EMA_200": 57.78,
+      "Avg_Volume": 23866179,
+      "MarketCap_Cr": 14121.0
     },
     {
       "Symbol": "PARAS",
-      "Current_Price": 1277.1,
-      "Daily_RSI": 56.26,
-      "Weekly_RSI": 66.44,
-      "Monthly_RSI": 66.84,
-      "ADX": 23.04,
-      "EMA_150": 958.55,
-      "EMA_200": 912.65,
-      "Avg_Volume": 1796659,
-      "MarketCap_Cr": 10292.0
+      "Current_Price": 1377.5,
+      "Daily_RSI": 66.94,
+      "Weekly_RSI": 69.87,
+      "Monthly_RSI": 69.11,
+      "ADX": 26.34,
+      "EMA_150": 981.17,
+      "EMA_200": 931.45,
+      "Avg_Volume": 1392627,
+      "MarketCap_Cr": 11101.0
     },
     {
       "Symbol": "NAZARA",
-      "Current_Price": 352.35,
-      "Daily_RSI": 80.27,
-      "Weekly_RSI": 72.47,
-      "Monthly_RSI": 65.68,
-      "ADX": 30.92,
-      "EMA_150": 285.44,
-      "EMA_200": 281.96,
-      "Avg_Volume": 2538490,
-      "MarketCap_Cr": 13523.0
+      "Current_Price": 355.2,
+      "Daily_RSI": 77.97,
+      "Weekly_RSI": 72.75,
+      "Monthly_RSI": 66.1,
+      "ADX": 38.76,
+      "EMA_150": 289.7,
+      "EMA_200": 285.38,
+      "Avg_Volume": 2999377,
+      "MarketCap_Cr": 13691.0
+    },
+    {
+      "Symbol": "TI",
+      "Current_Price": 553.7,
+      "Daily_RSI": 82.4,
+      "Weekly_RSI": 72.79,
+      "Monthly_RSI": 67.37,
+      "ADX": 26.09,
+      "EMA_150": 449.31,
+      "EMA_200": 443.48,
+      "Avg_Volume": 1027353,
+      "MarketCap_Cr": 14058.0
     },
     {
       "Symbol": "AETHER",
-      "Current_Price": 1584.4,
-      "Daily_RSI": 71.82,
-      "Weekly_RSI": 74.93,
-      "Monthly_RSI": 78.42,
-      "ADX": 48.54,
-      "EMA_150": 1179.17,
-      "EMA_200": 1124.43,
-      "Avg_Volume": 374620,
-      "MarketCap_Cr": 21123.0
+      "Current_Price": 1580.1,
+      "Daily_RSI": 62.36,
+      "Weekly_RSI": 75.91,
+      "Monthly_RSI": 79.07,
+      "ADX": 54.47,
+      "EMA_150": 1211.03,
+      "EMA_200": 1151.89,
+      "Avg_Volume": 425817,
+      "MarketCap_Cr": 21570.0
     },
     {
       "Symbol": "SKYGOLD",
-      "Current_Price": 691.15,
-      "Daily_RSI": 66.86,
-      "Weekly_RSI": 77.44,
-      "Monthly_RSI": 79.27,
-      "ADX": 36.4,
-      "EMA_150": 481.56,
-      "EMA_200": 453.68,
-      "Avg_Volume": 1129035,
-      "MarketCap_Cr": 11142.0
+      "Current_Price": 773.4,
+      "Daily_RSI": 66.61,
+      "Weekly_RSI": 80.13,
+      "Monthly_RSI": 80.86,
+      "ADX": 45.13,
+      "EMA_150": 504.45,
+      "EMA_200": 472.91,
+      "Avg_Volume": 1428779,
+      "MarketCap_Cr": 11978.0
     },
     {
       "Symbol": "JSFB",
-      "Current_Price": 560.95,
-      "Daily_RSI": 61.76,
-      "Weekly_RSI": 66.85,
-      "Monthly_RSI": 58.57,
-      "ADX": 34.71,
-      "EMA_150": 461.68,
-      "EMA_200": 457.28,
-      "Avg_Volume": 1102889,
-      "MarketCap_Cr": 5808.0
+      "Current_Price": 571.15,
+      "Daily_RSI": 61.13,
+      "Weekly_RSI": 68.69,
+      "Monthly_RSI": 61.81,
+      "ADX": 30.55,
+      "EMA_150": 468.51,
+      "EMA_200": 462.41,
+      "Avg_Volume": 1124575,
+      "MarketCap_Cr": 6110.0
     },
     {
       "Symbol": "RAIN",
-      "Current_Price": 222.88,
-      "Daily_RSI": 53.71,
-      "Weekly_RSI": 74.19,
-      "Monthly_RSI": 63.21,
-      "ADX": 45.12,
-      "EMA_150": 172.0,
-      "EMA_200": 165.32,
-      "Avg_Volume": 5679090,
-      "MarketCap_Cr": 7496.0
-    },
-    {
-      "Symbol": "LLOYDSENGG",
-      "Current_Price": 96.88,
-      "Daily_RSI": 62.94,
-      "Weekly_RSI": 76.67,
-      "Monthly_RSI": 67.37,
-      "ADX": 23.63,
-      "EMA_150": 70.72,
-      "EMA_200": 68.32,
-      "Avg_Volume": 14221251,
-      "MarketCap_Cr": 14325.0
-    },
-    {
-      "Symbol": "ASTRAMICRO",
-      "Current_Price": 1840.0,
-      "Daily_RSI": 59.06,
-      "Weekly_RSI": 75.99,
-      "Monthly_RSI": 78.05,
-      "ADX": 23.18,
-      "EMA_150": 1356.86,
-      "EMA_200": 1280.89,
-      "Avg_Volume": 619418,
-      "MarketCap_Cr": 17470.0
+      "Current_Price": 208.69,
+      "Daily_RSI": 46.83,
+      "Weekly_RSI": 65.55,
+      "Monthly_RSI": 60.14,
+      "ADX": 33.86,
+      "EMA_150": 173.51,
+      "EMA_200": 166.59,
+      "Avg_Volume": 6461979,
+      "MarketCap_Cr": 7019.0
     },
     {
       "Symbol": "THYROCARE",
-      "Current_Price": 603.25,
-      "Daily_RSI": 64.43,
-      "Weekly_RSI": 71.43,
-      "Monthly_RSI": 70.53,
-      "ADX": 38.37,
-      "EMA_150": 480.11,
-      "EMA_200": 462.03,
-      "Avg_Volume": 942677,
-      "MarketCap_Cr": 9601.0
+      "Current_Price": 624.05,
+      "Daily_RSI": 61.03,
+      "Weekly_RSI": 73.42,
+      "Monthly_RSI": 71.59,
+      "ADX": 39.69,
+      "EMA_150": 489.73,
+      "EMA_200": 470.31,
+      "Avg_Volume": 1227549,
+      "MarketCap_Cr": 9932.0
     },
     {
       "Symbol": "TMB",
-      "Current_Price": 873.4,
-      "Daily_RSI": 64.19,
-      "Weekly_RSI": 73.47,
-      "Monthly_RSI": 76.75,
-      "ADX": 45.39,
-      "EMA_150": 687.99,
-      "EMA_200": 654.68,
-      "Avg_Volume": 558070,
-      "MarketCap_Cr": 13871.0
+      "Current_Price": 845.85,
+      "Daily_RSI": 53.74,
+      "Weekly_RSI": 68.37,
+      "Monthly_RSI": 75.49,
+      "ADX": 43.62,
+      "EMA_150": 697.98,
+      "EMA_200": 663.52,
+      "Avg_Volume": 560645,
+      "MarketCap_Cr": 13450.0
     },
     {
       "Symbol": "SANSERA",
-      "Current_Price": 3863.8,
-      "Daily_RSI": 79.34,
-      "Weekly_RSI": 82.8,
-      "Monthly_RSI": 84.07,
-      "ADX": 37.24,
-      "EMA_150": 2634.52,
-      "EMA_200": 2459.24,
-      "Avg_Volume": 240292,
-      "MarketCap_Cr": 24111.0
+      "Current_Price": 3924.6,
+      "Daily_RSI": 69.61,
+      "Weekly_RSI": 83.39,
+      "Monthly_RSI": 84.39,
+      "ADX": 39.93,
+      "EMA_150": 2710.85,
+      "EMA_200": 2525.43,
+      "Avg_Volume": 289760,
+      "MarketCap_Cr": 24491.0
     },
     {
-      "Symbol": "GRINDWELL",
-      "Current_Price": 2133.8,
-      "Daily_RSI": 55.92,
-      "Weekly_RSI": 64.87,
-      "Monthly_RSI": 59.0,
-      "ADX": 34.71,
-      "EMA_150": 1830.43,
-      "EMA_200": 1795.53,
-      "Avg_Volume": 107189,
-      "MarketCap_Cr": 23625.0
+      "Symbol": "EMIL",
+      "Current_Price": 189.44,
+      "Daily_RSI": 81.27,
+      "Weekly_RSI": 77.48,
+      "Monthly_RSI": 61.82,
+      "ADX": 46.97,
+      "EMA_150": 123.66,
+      "EMA_200": 123.58,
+      "Avg_Volume": 10553947,
+      "MarketCap_Cr": 7289.0
     },
     {
       "Symbol": "SHAILY",
-      "Current_Price": 3162.3,
-      "Daily_RSI": 61.52,
-      "Weekly_RSI": 66.74,
-      "Monthly_RSI": 72.41,
-      "ADX": 31.12,
-      "EMA_150": 2581.23,
-      "EMA_200": 2476.64,
-      "Avg_Volume": 224314,
-      "MarketCap_Cr": 14545.0
+      "Current_Price": 3365.0,
+      "Daily_RSI": 64.96,
+      "Weekly_RSI": 70.53,
+      "Monthly_RSI": 74.28,
+      "ADX": 42.69,
+      "EMA_150": 2640.53,
+      "EMA_200": 2527.89,
+      "Avg_Volume": 241781,
+      "MarketCap_Cr": 15477.0
     },
     {
-      "Symbol": "VIYASH",
-      "Current_Price": 277.0,
-      "Daily_RSI": 59.07,
-      "Weekly_RSI": 62.98,
-      "Monthly_RSI": 64.35,
-      "ADX": 26.23,
-      "EMA_150": 236.72,
-      "EMA_200": 228.98,
-      "Avg_Volume": 1757880,
-      "MarketCap_Cr": 12090.0
-    },
-    {
-      "Symbol": "SOUTHBANK",
-      "Current_Price": 47.17,
-      "Daily_RSI": 54.69,
-      "Weekly_RSI": 63.13,
-      "Monthly_RSI": 71.2,
-      "ADX": 23.83,
-      "EMA_150": 42.02,
-      "EMA_200": 40.59,
-      "Avg_Volume": 17525708,
-      "MarketCap_Cr": 12350.0
+      "Symbol": "GNFC",
+      "Current_Price": 568.95,
+      "Daily_RSI": 69.78,
+      "Weekly_RSI": 65.26,
+      "Monthly_RSI": 55.32,
+      "ADX": 22.99,
+      "EMA_150": 501.56,
+      "EMA_200": 499.93,
+      "Avg_Volume": 425451,
+      "MarketCap_Cr": 8360.0
     },
     {
       "Symbol": "NEOGEN",
-      "Current_Price": 2031.5,
-      "Daily_RSI": 48.66,
-      "Weekly_RSI": 62.28,
-      "Monthly_RSI": 60.31,
-      "ADX": 22.93,
-      "EMA_150": 1725.42,
-      "EMA_200": 1673.51,
-      "Avg_Volume": 145970,
-      "MarketCap_Cr": 5564.0
+      "Current_Price": 2138.9,
+      "Daily_RSI": 56.11,
+      "Weekly_RSI": 68.09,
+      "Monthly_RSI": 63.25,
+      "ADX": 22.19,
+      "EMA_150": 1752.7,
+      "EMA_200": 1697.27,
+      "Avg_Volume": 154963,
+      "MarketCap_Cr": 6037.0
     },
     {
       "Symbol": "MARKSANS",
-      "Current_Price": 273.85,
-      "Daily_RSI": 59.45,
-      "Weekly_RSI": 67.94,
-      "Monthly_RSI": 61.73,
-      "ADX": 27.43,
-      "EMA_150": 223.92,
-      "EMA_200": 218.88,
-      "Avg_Volume": 1640952,
-      "MarketCap_Cr": 12410.0
+      "Current_Price": 333.0,
+      "Daily_RSI": 76.33,
+      "Weekly_RSI": 77.87,
+      "Monthly_RSI": 67.82,
+      "ADX": 31.91,
+      "EMA_150": 229.3,
+      "EMA_200": 223.33,
+      "Avg_Volume": 4048968,
+      "MarketCap_Cr": 15090.0
     },
     {
       "Symbol": "ARVIND",
-      "Current_Price": 560.55,
-      "Daily_RSI": 62.18,
-      "Weekly_RSI": 69.72,
-      "Monthly_RSI": 68.84,
-      "ADX": 20.43,
-      "EMA_150": 447.53,
-      "EMA_200": 428.28,
-      "Avg_Volume": 726918,
-      "MarketCap_Cr": 15249.0
-    },
-    {
-      "Symbol": "DCBBANK",
-      "Current_Price": 192.62,
-      "Daily_RSI": 54.46,
-      "Weekly_RSI": 61.77,
-      "Monthly_RSI": 61.7,
-      "ADX": 24.16,
-      "EMA_150": 179.17,
-      "EMA_200": 174.76,
-      "Avg_Volume": 1332113,
-      "MarketCap_Cr": 6204.0
+      "Current_Price": 571.85,
+      "Daily_RSI": 62.57,
+      "Weekly_RSI": 71.86,
+      "Monthly_RSI": 69.48,
+      "ADX": 20.47,
+      "EMA_150": 455.81,
+      "EMA_200": 435.74,
+      "Avg_Volume": 602645,
+      "MarketCap_Cr": 14990.0
     },
     {
       "Symbol": "RATEGAIN",
-      "Current_Price": 949.15,
-      "Daily_RSI": 56.57,
-      "Weekly_RSI": 73.08,
-      "Monthly_RSI": 66.94,
-      "ADX": 31.58,
-      "EMA_150": 740.42,
-      "EMA_200": 711.54,
-      "Avg_Volume": 565542,
-      "MarketCap_Cr": 11237.0
+      "Current_Price": 942.6,
+      "Daily_RSI": 53.85,
+      "Weekly_RSI": 72.22,
+      "Monthly_RSI": 66.71,
+      "ADX": 29.29,
+      "EMA_150": 754.18,
+      "EMA_200": 723.28,
+      "Avg_Volume": 553941,
+      "MarketCap_Cr": 11160.0
     },
     {
       "Symbol": "SHILPAMED",
-      "Current_Price": 759.75,
-      "Daily_RSI": 78.29,
-      "Weekly_RSI": 86.83,
-      "Monthly_RSI": 79.4,
-      "ADX": 54.02,
-      "EMA_150": 489.14,
-      "EMA_200": 465.74,
-      "Avg_Volume": 2194755,
-      "MarketCap_Cr": 14859.0
-    },
-    {
-      "Symbol": "ICIL",
-      "Current_Price": 421.55,
-      "Daily_RSI": 61.27,
-      "Weekly_RSI": 69.32,
-      "Monthly_RSI": 63.06,
-      "ADX": 29.1,
-      "EMA_150": 333.39,
-      "EMA_200": 323.51,
-      "Avg_Volume": 431649,
-      "MarketCap_Cr": 8449.0
-    },
-    {
-      "Symbol": "INDIAGLYCO",
-      "Current_Price": 1151.0,
-      "Daily_RSI": 58.97,
-      "Weekly_RSI": 62.72,
-      "Monthly_RSI": 64.36,
-      "ADX": 34.49,
-      "EMA_150": 1003.54,
-      "EMA_200": 980.12,
-      "Avg_Volume": 183489,
-      "MarketCap_Cr": 7665.0
+      "Current_Price": 807.05,
+      "Daily_RSI": 79.1,
+      "Weekly_RSI": 89.39,
+      "Monthly_RSI": 81.23,
+      "ADX": 58.87,
+      "EMA_150": 507.38,
+      "EMA_200": 480.56,
+      "Avg_Volume": 2285574,
+      "MarketCap_Cr": 16077.0
     },
     {
       "Symbol": "ASKAUTOLTD",
-      "Current_Price": 634.95,
-      "Daily_RSI": 70.96,
-      "Weekly_RSI": 79.59,
-      "Monthly_RSI": 69.97,
-      "ADX": 46.06,
-      "EMA_150": 467.07,
-      "EMA_200": 464.26,
-      "Avg_Volume": 1237365,
-      "MarketCap_Cr": 12518.0
+      "Current_Price": 649.45,
+      "Daily_RSI": 71.28,
+      "Weekly_RSI": 80.2,
+      "Monthly_RSI": 70.55,
+      "ADX": 55.99,
+      "EMA_150": 477.54,
+      "EMA_200": 472.3,
+      "Avg_Volume": 1307006,
+      "MarketCap_Cr": 12710.0
     },
     {
       "Symbol": "AKUMS",
-      "Current_Price": 697.45,
-      "Daily_RSI": 62.41,
-      "Weekly_RSI": 68.69,
-      "Monthly_RSI": 60.35,
-      "ADX": 41.52,
-      "EMA_150": 563.58,
-      "EMA_200": 551.63,
-      "Avg_Volume": 294191,
-      "MarketCap_Cr": 10678.0
+      "Current_Price": 726.6,
+      "Daily_RSI": 61.06,
+      "Weekly_RSI": 71.03,
+      "Monthly_RSI": 62.39,
+      "ADX": 46.65,
+      "EMA_150": 575.44,
+      "EMA_200": 562.21,
+      "Avg_Volume": 401541,
+      "MarketCap_Cr": 11124.0
+    },
+    {
+      "Symbol": "HCG",
+      "Current_Price": 721.4,
+      "Daily_RSI": 66.76,
+      "Weekly_RSI": 68.62,
+      "Monthly_RSI": 65.45,
+      "ADX": 26.02,
+      "EMA_150": 634.6,
+      "EMA_200": 628.17,
+      "Avg_Volume": 245730,
+      "MarketCap_Cr": 10665.0
+    },
+    {
+      "Symbol": "AVL",
+      "Current_Price": 618.85,
+      "Daily_RSI": 47.31,
+      "Weekly_RSI": 60.74,
+      "Monthly_RSI": 64.37,
+      "ADX": 22.14,
+      "EMA_150": 561.58,
+      "EMA_200": 546.75,
+      "Avg_Volume": 184585,
+      "MarketCap_Cr": 8067.0
     },
     {
       "Symbol": "JLHL",
-      "Current_Price": 319.25,
-      "Daily_RSI": 60.71,
-      "Weekly_RSI": 68.95,
-      "Monthly_RSI": 59.91,
-      "ADX": 49.66,
-      "EMA_150": 279.67,
-      "EMA_200": 278.86,
-      "Avg_Volume": 215913,
-      "MarketCap_Cr": 10497.0
+      "Current_Price": 316.0,
+      "Daily_RSI": 54.56,
+      "Weekly_RSI": 66.04,
+      "Monthly_RSI": 58.76,
+      "ADX": 38.59,
+      "EMA_150": 281.95,
+      "EMA_200": 280.65,
+      "Avg_Volume": 208334,
+      "MarketCap_Cr": 10351.0
     },
     {
       "Symbol": "MANORAMA",
-      "Current_Price": 1636.2,
-      "Daily_RSI": 56.39,
-      "Weekly_RSI": 62.63,
-      "Monthly_RSI": 65.23,
-      "ADX": 25.1,
-      "EMA_150": 1469.9,
-      "EMA_200": 1438.83,
-      "Avg_Volume": 164307,
-      "MarketCap_Cr": 10328.0
+      "Current_Price": 1737.1,
+      "Daily_RSI": 64.24,
+      "Weekly_RSI": 67.85,
+      "Monthly_RSI": 67.49,
+      "ADX": 26.72,
+      "EMA_150": 1481.61,
+      "EMA_200": 1449.59,
+      "Avg_Volume": 380974,
+      "MarketCap_Cr": 10965.0
+    },
+    {
+      "Symbol": "ENTERO",
+      "Current_Price": 1448.0,
+      "Daily_RSI": 75.52,
+      "Weekly_RSI": 64.93,
+      "Monthly_RSI": 62.8,
+      "ADX": 34.64,
+      "EMA_150": 1191.3,
+      "EMA_200": 1186.62,
+      "Avg_Volume": 150328,
+      "MarketCap_Cr": 6165.0
     },
     {
       "Symbol": "PGIL",
-      "Current_Price": 2221.5,
-      "Daily_RSI": 68.14,
-      "Weekly_RSI": 75.8,
-      "Monthly_RSI": 76.07,
-      "ADX": 29.45,
-      "EMA_150": 1719.01,
-      "EMA_200": 1660.75,
-      "Avg_Volume": 171914,
-      "MarketCap_Cr": 11382.0
+      "Current_Price": 2464.9,
+      "Daily_RSI": 74.83,
+      "Weekly_RSI": 75.94,
+      "Monthly_RSI": 76.19,
+      "ADX": 41.32,
+      "EMA_150": 1770.8,
+      "EMA_200": 1703.3,
+      "Avg_Volume": 170364,
+      "MarketCap_Cr": 11430.0
     },
     {
       "Symbol": "VARROC",
-      "Current_Price": 811.2,
-      "Daily_RSI": 83.67,
-      "Weekly_RSI": 79.31,
-      "Monthly_RSI": 68.6,
-      "ADX": 35.21,
-      "EMA_150": 597.57,
-      "EMA_200": 589.53,
-      "Avg_Volume": 723722,
-      "MarketCap_Cr": 12395.0
+      "Current_Price": 841.95,
+      "Daily_RSI": 83.91,
+      "Weekly_RSI": 81.29,
+      "Monthly_RSI": 70.13,
+      "ADX": 45.7,
+      "EMA_150": 609.92,
+      "EMA_200": 598.83,
+      "Avg_Volume": 799194,
+      "MarketCap_Cr": 12956.0
     },
     {
       "Symbol": "ALIVUS",
-      "Current_Price": 1329.8,
-      "Daily_RSI": 74.09,
-      "Weekly_RSI": 75.99,
-      "Monthly_RSI": 71.49,
-      "ADX": 37.44,
-      "EMA_150": 1059.17,
-      "EMA_200": 1041.32,
-      "Avg_Volume": 152769,
-      "MarketCap_Cr": 16326.0
+      "Current_Price": 1374.6,
+      "Daily_RSI": 72.53,
+      "Weekly_RSI": 78.45,
+      "Monthly_RSI": 73.24,
+      "ADX": 44.28,
+      "EMA_150": 1075.69,
+      "EMA_200": 1054.82,
+      "Avg_Volume": 150366,
+      "MarketCap_Cr": 17025.0
+    },
+    {
+      "Symbol": "EPL",
+      "Current_Price": 247.24,
+      "Daily_RSI": 64.23,
+      "Weekly_RSI": 60.77,
+      "Monthly_RSI": 58.34,
+      "ADX": 22.87,
+      "EMA_150": 223.14,
+      "EMA_200": 221.66,
+      "Avg_Volume": 1042247,
+      "MarketCap_Cr": 7834.0
+    },
+    {
+      "Symbol": "ALKYLAMINE",
+      "Current_Price": 1923.1,
+      "Daily_RSI": 57.56,
+      "Weekly_RSI": 63.08,
+      "Monthly_RSI": 52.24,
+      "ADX": 22.45,
+      "EMA_150": 1722.62,
+      "EMA_200": 1722.3,
+      "Avg_Volume": 164007,
+      "MarketCap_Cr": 9804.0
     }
   ],
   "rsi_summary": [
     {
       "Symbol": "MOIL",
-      "Current_Price": 278.15,
-      "Daily_RSI": 49.79,
-      "Weekly_RSI": 42.17,
-      "Monthly_RSI": 44.77
+      "Current_Price": 274.15,
+      "Daily_RSI": 44.52,
+      "Weekly_RSI": 40.79,
+      "Monthly_RSI": 44.22
     },
     {
       "Symbol": "VGUARD",
-      "Current_Price": 322.25,
-      "Daily_RSI": 66.18,
-      "Weekly_RSI": 52.11,
-      "Monthly_RSI": 46.35
+      "Current_Price": 331.7,
+      "Daily_RSI": 70.18,
+      "Weekly_RSI": 55.32,
+      "Monthly_RSI": 47.94
     },
     {
       "Symbol": "SMLMAH",
-      "Current_Price": 5554.0,
-      "Daily_RSI": 67.86,
-      "Weekly_RSI": 68.89,
-      "Monthly_RSI": 69.14
+      "Current_Price": 5134.5,
+      "Daily_RSI": 57.77,
+      "Weekly_RSI": 62.04,
+      "Monthly_RSI": 65.02
     },
     {
       "Symbol": "TDPOWERSYS",
-      "Current_Price": 1260.9,
-      "Daily_RSI": 61.29,
-      "Weekly_RSI": 61.94,
-      "Monthly_RSI": 74.07
+      "Current_Price": 1481.6,
+      "Daily_RSI": 73.6,
+      "Weekly_RSI": 71.94,
+      "Monthly_RSI": 78.26
     },
     {
       "Symbol": "CUPID",
-      "Current_Price": 262.13,
-      "Daily_RSI": 78.05,
-      "Weekly_RSI": 91.88,
-      "Monthly_RSI": 92.46
+      "Current_Price": 293.88,
+      "Daily_RSI": 84.78,
+      "Weekly_RSI": 93.46,
+      "Monthly_RSI": 93.4
     },
     {
       "Symbol": "DIACABS",
-      "Current_Price": 364.05,
-      "Daily_RSI": 81.78,
-      "Weekly_RSI": 88.6,
-      "Monthly_RSI": 81.47
+      "Current_Price": 368.5,
+      "Daily_RSI": 80.65,
+      "Weekly_RSI": 88.84,
+      "Monthly_RSI": 81.7
     },
     {
       "Symbol": "MTARTECH",
-      "Current_Price": 7085.5,
-      "Daily_RSI": 59.78,
-      "Weekly_RSI": 59.98,
-      "Monthly_RSI": 70.44
+      "Current_Price": 7234.0,
+      "Daily_RSI": 61.86,
+      "Weekly_RSI": 60.33,
+      "Monthly_RSI": 70.35
     },
     {
       "Symbol": "BLUESTONE",
-      "Current_Price": 814.5,
-      "Daily_RSI": 65.23,
-      "Weekly_RSI": 76.74,
+      "Current_Price": 845.25,
+      "Daily_RSI": 62.95,
+      "Weekly_RSI": 78.26,
       "Monthly_RSI": null
     },
     {
       "Symbol": "KTKBANK",
-      "Current_Price": 310.0,
-      "Daily_RSI": 71.43,
-      "Weekly_RSI": 74.6,
-      "Monthly_RSI": 73.83
+      "Current_Price": 309.65,
+      "Daily_RSI": 65.1,
+      "Weekly_RSI": 74.37,
+      "Monthly_RSI": 73.79
     },
     {
       "Symbol": "THANGAMAYL",
-      "Current_Price": 5275.0,
-      "Daily_RSI": 41.1,
-      "Weekly_RSI": 55.08,
-      "Monthly_RSI": 69.45
+      "Current_Price": 5427.0,
+      "Daily_RSI": 45.27,
+      "Weekly_RSI": 56.77,
+      "Monthly_RSI": 70.21
     },
     {
       "Symbol": "LXCHEM",
-      "Current_Price": 175.64,
-      "Daily_RSI": 50.45,
-      "Weekly_RSI": 59.72,
-      "Monthly_RSI": 46.21
+      "Current_Price": 174.11,
+      "Daily_RSI": 49.04,
+      "Weekly_RSI": 59.9,
+      "Monthly_RSI": 46.3
     },
     {
       "Symbol": "AZAD",
-      "Current_Price": 2489.0,
-      "Daily_RSI": 62.08,
-      "Weekly_RSI": 63.53,
-      "Monthly_RSI": 68.51
+      "Current_Price": 2665.1,
+      "Daily_RSI": 68.8,
+      "Weekly_RSI": 68.55,
+      "Monthly_RSI": 71.4
     },
     {
       "Symbol": "BLACKBUCK",
-      "Current_Price": 557.55,
-      "Daily_RSI": 51.59,
-      "Weekly_RSI": 51.6,
-      "Monthly_RSI": 55.9
+      "Current_Price": 576.8,
+      "Daily_RSI": 58.31,
+      "Weekly_RSI": 50.62,
+      "Monthly_RSI": 55.12
     },
     {
       "Symbol": "AVALON",
-      "Current_Price": 1965.3,
-      "Daily_RSI": 67.9,
-      "Weekly_RSI": 79.85,
-      "Monthly_RSI": 79.04
+      "Current_Price": 1940.8,
+      "Daily_RSI": 61.99,
+      "Weekly_RSI": 77.58,
+      "Monthly_RSI": 78.72
     },
     {
       "Symbol": "PRIVISCL",
-      "Current_Price": 3660.0,
-      "Daily_RSI": 54.96,
-      "Weekly_RSI": 64.14,
-      "Monthly_RSI": 70.92
+      "Current_Price": 3528.8,
+      "Daily_RSI": 42.86,
+      "Weekly_RSI": 56.71,
+      "Monthly_RSI": 67.29
     },
     {
       "Symbol": "APOLLO",
-      "Current_Price": 403.85,
-      "Daily_RSI": 53.65,
-      "Weekly_RSI": 60.61,
-      "Monthly_RSI": 68.68
+      "Current_Price": 393.55,
+      "Daily_RSI": 49.39,
+      "Weekly_RSI": 58.54,
+      "Monthly_RSI": 67.97
     },
     {
       "Symbol": "PRICOLLTD",
-      "Current_Price": 761.45,
-      "Daily_RSI": 82.75,
-      "Weekly_RSI": 71.22,
-      "Monthly_RSI": 68.03
+      "Current_Price": 765.0,
+      "Daily_RSI": 70.38,
+      "Weekly_RSI": 75.3,
+      "Monthly_RSI": 70.54
     },
     {
       "Symbol": "STLTECH",
-      "Current_Price": 638.9,
-      "Daily_RSI": 65.93,
-      "Weekly_RSI": 73.77,
-      "Monthly_RSI": 84.02
+      "Current_Price": 647.75,
+      "Daily_RSI": 63.11,
+      "Weekly_RSI": 74.27,
+      "Monthly_RSI": 84.25
     },
     {
       "Symbol": "LOTUSDEV",
-      "Current_Price": 185.83,
-      "Daily_RSI": 65.35,
-      "Weekly_RSI": 66.5,
+      "Current_Price": 174.03,
+      "Daily_RSI": 51.5,
+      "Weekly_RSI": 57.58,
       "Monthly_RSI": null
     },
     {
       "Symbol": "PCJEWELLER",
-      "Current_Price": 9.77,
-      "Daily_RSI": 54.82,
-      "Weekly_RSI": 51.54,
-      "Monthly_RSI": 49.44
+      "Current_Price": 9.64,
+      "Daily_RSI": 50.91,
+      "Weekly_RSI": 50.46,
+      "Monthly_RSI": 49.03
     },
     {
       "Symbol": "AEQUS",
-      "Current_Price": 248.31,
-      "Daily_RSI": 61.77,
-      "Weekly_RSI": 70.53,
+      "Current_Price": 249.64,
+      "Daily_RSI": 59.68,
+      "Weekly_RSI": 70.83,
       "Monthly_RSI": null
     },
     {
       "Symbol": "WABAG",
-      "Current_Price": 1957.7,
-      "Daily_RSI": 47.94,
-      "Weekly_RSI": 63.1,
-      "Monthly_RSI": 66.28
+      "Current_Price": 1885.6,
+      "Daily_RSI": 42.42,
+      "Weekly_RSI": 60.11,
+      "Monthly_RSI": 64.44
     },
     {
       "Symbol": "GOKULAGRO",
-      "Current_Price": 224.53,
-      "Daily_RSI": 56.98,
-      "Weekly_RSI": 60.3,
-      "Monthly_RSI": 65.38
+      "Current_Price": 235.34,
+      "Daily_RSI": 64.68,
+      "Weekly_RSI": 61.45,
+      "Monthly_RSI": 65.82
     },
     {
       "Symbol": "UJJIVANSFB",
-      "Current_Price": 70.11,
-      "Daily_RSI": 60.05,
-      "Weekly_RSI": 65.91,
-      "Monthly_RSI": 65.13
+      "Current_Price": 71.19,
+      "Daily_RSI": 60.52,
+      "Weekly_RSI": 68.23,
+      "Monthly_RSI": 67.13
     },
     {
       "Symbol": "GAEL",
-      "Current_Price": 177.72,
-      "Daily_RSI": 66.7,
-      "Weekly_RSI": 61.64,
-      "Monthly_RSI": 65.47
+      "Current_Price": 172.81,
+      "Daily_RSI": 57.93,
+      "Weekly_RSI": 63.3,
+      "Monthly_RSI": 67.47
     },
     {
       "Symbol": "TIMETECHNO",
-      "Current_Price": 206.82,
-      "Daily_RSI": 58.75,
-      "Weekly_RSI": 59.59,
-      "Monthly_RSI": 56.31
+      "Current_Price": 193.27,
+      "Daily_RSI": 42.74,
+      "Weekly_RSI": 52.41,
+      "Monthly_RSI": 53.49
     },
     {
       "Symbol": "TANLA",
-      "Current_Price": 613.55,
-      "Daily_RSI": 61.08,
-      "Weekly_RSI": 66.26,
-      "Monthly_RSI": 50.63
+      "Current_Price": 584.25,
+      "Daily_RSI": 49.03,
+      "Weekly_RSI": 58.37,
+      "Monthly_RSI": 48.54
     },
     {
       "Symbol": "QUESS",
-      "Current_Price": 312.25,
-      "Daily_RSI": 60.08,
-      "Weekly_RSI": 70.72,
-      "Monthly_RSI": 47.68
+      "Current_Price": 333.2,
+      "Daily_RSI": 68.01,
+      "Weekly_RSI": 75.0,
+      "Monthly_RSI": 50.49
     },
     {
       "Symbol": "PARAS",
-      "Current_Price": 1277.1,
-      "Daily_RSI": 56.26,
-      "Weekly_RSI": 66.44,
-      "Monthly_RSI": 66.84
+      "Current_Price": 1377.5,
+      "Daily_RSI": 66.94,
+      "Weekly_RSI": 69.87,
+      "Monthly_RSI": 69.11
     },
     {
       "Symbol": "NAZARA",
-      "Current_Price": 352.35,
-      "Daily_RSI": 80.27,
-      "Weekly_RSI": 72.47,
-      "Monthly_RSI": 65.68
+      "Current_Price": 355.2,
+      "Daily_RSI": 77.97,
+      "Weekly_RSI": 72.75,
+      "Monthly_RSI": 66.1
     },
     {
       "Symbol": "TI",
-      "Current_Price": 488.45,
-      "Daily_RSI": 67.52,
-      "Weekly_RSI": 61.5,
-      "Monthly_RSI": 61.83
-    },
-    {
-      "Symbol": "AETHER",
-      "Current_Price": 1584.4,
-      "Daily_RSI": 71.82,
-      "Weekly_RSI": 74.93,
-      "Monthly_RSI": 78.42
-    },
-    {
-      "Symbol": "SKYGOLD",
-      "Current_Price": 691.15,
-      "Daily_RSI": 66.86,
-      "Weekly_RSI": 77.44,
-      "Monthly_RSI": 79.27
-    },
-    {
-      "Symbol": "PNGJL",
-      "Current_Price": 642.85,
-      "Daily_RSI": 56.51,
-      "Weekly_RSI": 56.12,
-      "Monthly_RSI": 52.81
-    },
-    {
-      "Symbol": "JSFB",
-      "Current_Price": 560.95,
-      "Daily_RSI": 61.76,
-      "Weekly_RSI": 66.85,
-      "Monthly_RSI": 58.57
-    },
-    {
-      "Symbol": "SANDUMA",
-      "Current_Price": 205.37,
-      "Daily_RSI": 48.35,
-      "Weekly_RSI": 48.91,
-      "Monthly_RSI": 55.68
-    },
-    {
-      "Symbol": "AVANTIFEED",
-      "Current_Price": 906.55,
-      "Daily_RSI": 41.39,
-      "Weekly_RSI": 40.7,
-      "Monthly_RSI": 53.2
-    },
-    {
-      "Symbol": "ASHAPURMIN",
-      "Current_Price": 738.35,
-      "Daily_RSI": 63.41,
-      "Weekly_RSI": 60.72,
-      "Monthly_RSI": 60.01
-    },
-    {
-      "Symbol": "SENCO",
-      "Current_Price": 388.8,
-      "Daily_RSI": 54.92,
-      "Weekly_RSI": 61.44,
-      "Monthly_RSI": 53.57
-    },
-    {
-      "Symbol": "RAIN",
-      "Current_Price": 222.88,
-      "Daily_RSI": 53.71,
-      "Weekly_RSI": 74.19,
-      "Monthly_RSI": 63.21
-    },
-    {
-      "Symbol": "LLOYDSENGG",
-      "Current_Price": 96.88,
-      "Daily_RSI": 62.94,
-      "Weekly_RSI": 76.67,
+      "Current_Price": 553.7,
+      "Daily_RSI": 82.4,
+      "Weekly_RSI": 72.79,
       "Monthly_RSI": 67.37
     },
     {
+      "Symbol": "AETHER",
+      "Current_Price": 1580.1,
+      "Daily_RSI": 62.36,
+      "Weekly_RSI": 75.91,
+      "Monthly_RSI": 79.07
+    },
+    {
+      "Symbol": "SKYGOLD",
+      "Current_Price": 773.4,
+      "Daily_RSI": 66.61,
+      "Weekly_RSI": 80.13,
+      "Monthly_RSI": 80.86
+    },
+    {
+      "Symbol": "PNGJL",
+      "Current_Price": 628.2,
+      "Daily_RSI": 50.71,
+      "Weekly_RSI": 51.54,
+      "Monthly_RSI": 49.78
+    },
+    {
+      "Symbol": "JSFB",
+      "Current_Price": 571.15,
+      "Daily_RSI": 61.13,
+      "Weekly_RSI": 68.69,
+      "Monthly_RSI": 61.81
+    },
+    {
+      "Symbol": "SANDUMA",
+      "Current_Price": 201.93,
+      "Daily_RSI": 44.4,
+      "Weekly_RSI": 46.06,
+      "Monthly_RSI": 54.11
+    },
+    {
+      "Symbol": "AVANTIFEED",
+      "Current_Price": 861.4,
+      "Daily_RSI": 35.68,
+      "Weekly_RSI": 38.41,
+      "Monthly_RSI": 51.52
+    },
+    {
+      "Symbol": "ASHAPURMIN",
+      "Current_Price": 613.65,
+      "Daily_RSI": 34.89,
+      "Weekly_RSI": 44.6,
+      "Monthly_RSI": 53.57
+    },
+    {
+      "Symbol": "SENCO",
+      "Current_Price": 341.85,
+      "Daily_RSI": 37.49,
+      "Weekly_RSI": 49.19,
+      "Monthly_RSI": 49.11
+    },
+    {
+      "Symbol": "RAIN",
+      "Current_Price": 208.69,
+      "Daily_RSI": 46.83,
+      "Weekly_RSI": 65.55,
+      "Monthly_RSI": 60.14
+    },
+    {
+      "Symbol": "LLOYDSENGG",
+      "Current_Price": 93.53,
+      "Daily_RSI": 56.54,
+      "Weekly_RSI": 71.87,
+      "Monthly_RSI": 66.39
+    },
+    {
       "Symbol": "BECTORFOOD",
-      "Current_Price": 210.48,
-      "Daily_RSI": 59.87,
-      "Weekly_RSI": 60.61,
-      "Monthly_RSI": 48.87
+      "Current_Price": 240.25,
+      "Daily_RSI": 72.46,
+      "Weekly_RSI": 65.49,
+      "Monthly_RSI": 51.74
     },
     {
       "Symbol": "ASTRAMICRO",
-      "Current_Price": 1840.0,
-      "Daily_RSI": 59.06,
-      "Weekly_RSI": 75.99,
-      "Monthly_RSI": 78.05
+      "Current_Price": 1739.3,
+      "Daily_RSI": 49.71,
+      "Weekly_RSI": 67.73,
+      "Monthly_RSI": 73.06
     },
     {
       "Symbol": "HAPPSTMNDS",
-      "Current_Price": 407.7,
-      "Daily_RSI": 67.9,
-      "Weekly_RSI": 55.48,
-      "Monthly_RSI": 35.29
+      "Current_Price": 420.2,
+      "Daily_RSI": 67.77,
+      "Weekly_RSI": 58.44,
+      "Monthly_RSI": 37.05
     },
     {
       "Symbol": "THYROCARE",
-      "Current_Price": 603.25,
-      "Daily_RSI": 64.43,
-      "Weekly_RSI": 71.43,
-      "Monthly_RSI": 70.53
+      "Current_Price": 624.05,
+      "Daily_RSI": 61.03,
+      "Weekly_RSI": 73.42,
+      "Monthly_RSI": 71.59
     },
     {
       "Symbol": "VIKRAMSOLR",
-      "Current_Price": 164.34,
-      "Daily_RSI": 30.43,
-      "Weekly_RSI": 33.73,
+      "Current_Price": 160.15,
+      "Daily_RSI": 33.27,
+      "Weekly_RSI": 32.63,
       "Monthly_RSI": null
     },
     {
       "Symbol": "SUDARSCHEM",
-      "Current_Price": 1139.6,
-      "Daily_RSI": 69.7,
-      "Weekly_RSI": 64.84,
-      "Monthly_RSI": 57.51
+      "Current_Price": 1052.8,
+      "Daily_RSI": 53.08,
+      "Weekly_RSI": 63.28,
+      "Monthly_RSI": 56.95
     },
     {
       "Symbol": "TMB",
-      "Current_Price": 873.4,
-      "Daily_RSI": 64.19,
-      "Weekly_RSI": 73.47,
-      "Monthly_RSI": 76.75
+      "Current_Price": 845.85,
+      "Daily_RSI": 53.74,
+      "Weekly_RSI": 68.37,
+      "Monthly_RSI": 75.49
     },
     {
       "Symbol": "INOXGREEN",
-      "Current_Price": 179.43,
-      "Daily_RSI": 42.73,
-      "Weekly_RSI": 48.65,
-      "Monthly_RSI": 52.46
+      "Current_Price": 186.96,
+      "Daily_RSI": 51.55,
+      "Weekly_RSI": 51.93,
+      "Monthly_RSI": 53.52
     },
     {
       "Symbol": "REFEX",
-      "Current_Price": 292.9,
-      "Daily_RSI": 37.1,
-      "Weekly_RSI": 49.5,
-      "Monthly_RSI": 49.43
+      "Current_Price": 297.25,
+      "Daily_RSI": 41.42,
+      "Weekly_RSI": 50.56,
+      "Monthly_RSI": 49.85
     },
     {
       "Symbol": "BORORENEW",
-      "Current_Price": 548.65,
-      "Daily_RSI": 35.22,
-      "Weekly_RSI": 50.47,
-      "Monthly_RSI": 52.19
+      "Current_Price": 579.0,
+      "Daily_RSI": 51.97,
+      "Weekly_RSI": 54.72,
+      "Monthly_RSI": 54.17
     },
     {
       "Symbol": "SANSERA",
-      "Current_Price": 3863.8,
-      "Daily_RSI": 79.34,
-      "Weekly_RSI": 82.8,
-      "Monthly_RSI": 84.07
+      "Current_Price": 3924.6,
+      "Daily_RSI": 69.61,
+      "Weekly_RSI": 83.39,
+      "Monthly_RSI": 84.39
     },
     {
       "Symbol": "WESTLIFE",
-      "Current_Price": 578.35,
-      "Daily_RSI": 69.64,
-      "Weekly_RSI": 65.67,
-      "Monthly_RSI": 48.02
+      "Current_Price": 582.9,
+      "Daily_RSI": 65.34,
+      "Weekly_RSI": 63.19,
+      "Monthly_RSI": 46.83
     },
     {
       "Symbol": "GRINDWELL",
-      "Current_Price": 2133.8,
-      "Daily_RSI": 55.92,
-      "Weekly_RSI": 64.87,
-      "Monthly_RSI": 59.0
+      "Current_Price": 2146.3,
+      "Daily_RSI": 56.37,
+      "Weekly_RSI": 66.04,
+      "Monthly_RSI": 59.71
     },
     {
       "Symbol": "EMIL",
-      "Current_Price": 165.83,
-      "Daily_RSI": 80.1,
-      "Weekly_RSI": 72.17,
-      "Monthly_RSI": 57.77
+      "Current_Price": 189.44,
+      "Daily_RSI": 81.27,
+      "Weekly_RSI": 77.48,
+      "Monthly_RSI": 61.82
     },
     {
       "Symbol": "SKIPPER",
-      "Current_Price": 526.5,
-      "Daily_RSI": 45.92,
-      "Weekly_RSI": 56.49,
-      "Monthly_RSI": 58.68
+      "Current_Price": 545.75,
+      "Daily_RSI": 54.38,
+      "Weekly_RSI": 57.91,
+      "Monthly_RSI": 59.56
     },
     {
       "Symbol": "MASTEK",
-      "Current_Price": 1823.0,
-      "Daily_RSI": 57.97,
-      "Weekly_RSI": 54.25,
+      "Current_Price": 1832.2,
+      "Daily_RSI": 58.25,
+      "Weekly_RSI": 54.94,
       "Monthly_RSI": 45.06
     },
     {
       "Symbol": "SAMHI",
-      "Current_Price": 176.24,
-      "Daily_RSI": 52.53,
-      "Weekly_RSI": 52.62,
-      "Monthly_RSI": 49.38
-    },
-    {
-      "Symbol": "SHAILY",
-      "Current_Price": 3162.3,
-      "Daily_RSI": 61.52,
-      "Weekly_RSI": 66.74,
-      "Monthly_RSI": 72.41
-    },
-    {
-      "Symbol": "VIYASH",
-      "Current_Price": 277.0,
-      "Daily_RSI": 59.07,
-      "Weekly_RSI": 62.98,
-      "Monthly_RSI": 64.35
-    },
-    {
-      "Symbol": "ROUTE",
-      "Current_Price": 533.5,
-      "Daily_RSI": 45.36,
-      "Weekly_RSI": 44.8,
-      "Monthly_RSI": 31.13
-    },
-    {
-      "Symbol": "METROPOLIS",
-      "Current_Price": 564.6,
-      "Daily_RSI": 48.61,
-      "Weekly_RSI": 58.8,
-      "Monthly_RSI": 59.84
-    },
-    {
-      "Symbol": "HCC",
-      "Current_Price": 20.52,
-      "Daily_RSI": 33.59,
-      "Weekly_RSI": 45.52,
-      "Monthly_RSI": 45.0
-    },
-    {
-      "Symbol": "EIEL",
-      "Current_Price": 215.5,
-      "Daily_RSI": 46.21,
-      "Weekly_RSI": 53.32,
-      "Monthly_RSI": 45.43
-    },
-    {
-      "Symbol": "GREAVESCOT",
-      "Current_Price": 198.85,
-      "Daily_RSI": 35.24,
-      "Weekly_RSI": 50.86,
-      "Monthly_RSI": 52.24
-    },
-    {
-      "Symbol": "JUSTDIAL",
-      "Current_Price": 681.55,
-      "Daily_RSI": 50.94,
-      "Weekly_RSI": 57.96,
+      "Current_Price": 164.77,
+      "Daily_RSI": 41.27,
+      "Weekly_RSI": 46.73,
       "Monthly_RSI": 46.53
     },
     {
+      "Symbol": "SHAILY",
+      "Current_Price": 3365.0,
+      "Daily_RSI": 64.96,
+      "Weekly_RSI": 70.53,
+      "Monthly_RSI": 74.28
+    },
+    {
+      "Symbol": "VIYASH",
+      "Current_Price": 255.65,
+      "Daily_RSI": 43.36,
+      "Weekly_RSI": 54.81,
+      "Monthly_RSI": 61.56
+    },
+    {
+      "Symbol": "ROUTE",
+      "Current_Price": 514.6,
+      "Daily_RSI": 39.0,
+      "Weekly_RSI": 40.93,
+      "Monthly_RSI": 30.33
+    },
+    {
+      "Symbol": "METROPOLIS",
+      "Current_Price": 558.5,
+      "Daily_RSI": 46.31,
+      "Weekly_RSI": 54.69,
+      "Monthly_RSI": 57.36
+    },
+    {
+      "Symbol": "HCC",
+      "Current_Price": 19.82,
+      "Daily_RSI": 29.69,
+      "Weekly_RSI": 43.59,
+      "Monthly_RSI": 44.37
+    },
+    {
+      "Symbol": "EIEL",
+      "Current_Price": 203.08,
+      "Daily_RSI": 36.95,
+      "Weekly_RSI": 47.22,
+      "Monthly_RSI": 42.56
+    },
+    {
+      "Symbol": "GREAVESCOT",
+      "Current_Price": 194.37,
+      "Daily_RSI": 35.96,
+      "Weekly_RSI": 49.49,
+      "Monthly_RSI": 51.51
+    },
+    {
+      "Symbol": "JUSTDIAL",
+      "Current_Price": 677.85,
+      "Daily_RSI": 48.77,
+      "Weekly_RSI": 58.32,
+      "Monthly_RSI": 46.41
+    },
+    {
       "Symbol": "AXISCADES",
-      "Current_Price": 1631.4,
-      "Daily_RSI": 51.74,
-      "Weekly_RSI": 47.5,
-      "Monthly_RSI": 59.6
+      "Current_Price": 1484.8,
+      "Daily_RSI": 37.21,
+      "Weekly_RSI": 42.67,
+      "Monthly_RSI": 56.7
     },
     {
       "Symbol": "RAYMONDLSL",
-      "Current_Price": 731.8,
-      "Daily_RSI": 46.86,
-      "Weekly_RSI": 38.91,
-      "Monthly_RSI": 26.33
+      "Current_Price": 738.55,
+      "Daily_RSI": 51.38,
+      "Weekly_RSI": 40.83,
+      "Monthly_RSI": 26.95
     },
     {
       "Symbol": "INOXINDIA",
-      "Current_Price": 1954.4,
-      "Daily_RSI": 53.71,
-      "Weekly_RSI": 74.05,
-      "Monthly_RSI": 79.96
+      "Current_Price": 1941.9,
+      "Daily_RSI": 51.97,
+      "Weekly_RSI": 72.85,
+      "Monthly_RSI": 79.76
     },
     {
       "Symbol": "GRWRHITECH",
-      "Current_Price": 7338.5,
-      "Daily_RSI": 64.05,
-      "Weekly_RSI": 76.67,
-      "Monthly_RSI": 68.51
+      "Current_Price": 7088.5,
+      "Daily_RSI": 52.99,
+      "Weekly_RSI": 74.66,
+      "Monthly_RSI": 69.47
     },
     {
       "Symbol": "SOUTHBANK",
-      "Current_Price": 47.17,
-      "Daily_RSI": 54.69,
-      "Weekly_RSI": 63.13,
-      "Monthly_RSI": 71.2
+      "Current_Price": 45.74,
+      "Daily_RSI": 48.92,
+      "Weekly_RSI": 59.81,
+      "Monthly_RSI": 69.7
     },
     {
       "Symbol": "SHAKTIPUMP",
-      "Current_Price": 516.3,
-      "Daily_RSI": 36.58,
-      "Weekly_RSI": 40.3,
-      "Monthly_RSI": 44.97
+      "Current_Price": 500.3,
+      "Daily_RSI": 29.16,
+      "Weekly_RSI": 38.07,
+      "Monthly_RSI": 44.2
     },
     {
       "Symbol": "WAKEFIT",
-      "Current_Price": 127.76,
-      "Daily_RSI": 49.62,
-      "Weekly_RSI": 39.99,
+      "Current_Price": 121.38,
+      "Daily_RSI": 41.2,
+      "Weekly_RSI": 36.91,
       "Monthly_RSI": null
     },
     {
       "Symbol": "BALAMINES",
-      "Current_Price": 2029.6,
-      "Daily_RSI": 42.65,
-      "Weekly_RSI": 60.65,
-      "Monthly_RSI": 57.58
+      "Current_Price": 2133.8,
+      "Daily_RSI": 49.75,
+      "Weekly_RSI": 63.58,
+      "Monthly_RSI": 60.13
     },
     {
       "Symbol": "RELAXO",
-      "Current_Price": 425.55,
-      "Daily_RSI": 61.08,
-      "Weekly_RSI": 60.8,
-      "Monthly_RSI": 42.81
+      "Current_Price": 396.25,
+      "Daily_RSI": 45.92,
+      "Weekly_RSI": 54.9,
+      "Monthly_RSI": 39.93
     },
     {
       "Symbol": "SHARDACROP",
-      "Current_Price": 814.05,
-      "Daily_RSI": 34.42,
-      "Weekly_RSI": 40.43,
-      "Monthly_RSI": 51.2
+      "Current_Price": 792.7,
+      "Daily_RSI": 29.34,
+      "Weekly_RSI": 38.41,
+      "Monthly_RSI": 50.2
     },
     {
       "Symbol": "CSBBANK",
-      "Current_Price": 316.95,
-      "Daily_RSI": 32.76,
-      "Weekly_RSI": 38.0,
-      "Monthly_RSI": 44.25
+      "Current_Price": 319.8,
+      "Daily_RSI": 38.19,
+      "Weekly_RSI": 38.84,
+      "Monthly_RSI": 44.61
     },
     {
       "Symbol": "RATNAMANI",
-      "Current_Price": 2197.6,
-      "Daily_RSI": 23.47,
-      "Weekly_RSI": 40.23,
-      "Monthly_RSI": 41.85
+      "Current_Price": 2298.0,
+      "Daily_RSI": 39.87,
+      "Weekly_RSI": 46.31,
+      "Monthly_RSI": 45.01
     },
     {
       "Symbol": "SWSOLAR",
-      "Current_Price": 206.92,
-      "Daily_RSI": 40.55,
-      "Weekly_RSI": 46.91,
-      "Monthly_RSI": 41.34
+      "Current_Price": 202.01,
+      "Daily_RSI": 36.96,
+      "Weekly_RSI": 45.87,
+      "Monthly_RSI": 41.06
     },
     {
       "Symbol": "GPPL",
-      "Current_Price": 151.63,
-      "Daily_RSI": 50.7,
-      "Weekly_RSI": 44.17,
-      "Monthly_RSI": 49.29
+      "Current_Price": 158.68,
+      "Daily_RSI": 66.39,
+      "Weekly_RSI": 52.57,
+      "Monthly_RSI": 51.79
     },
     {
       "Symbol": "EQUITASBNK",
-      "Current_Price": 75.22,
-      "Daily_RSI": 45.95,
-      "Weekly_RSI": 56.13,
-      "Monthly_RSI": 55.05
+      "Current_Price": 74.52,
+      "Daily_RSI": 44.67,
+      "Weekly_RSI": 55.57,
+      "Monthly_RSI": 54.55
     },
     {
       "Symbol": "SPARC",
-      "Current_Price": 213.21,
-      "Daily_RSI": 42.85,
-      "Weekly_RSI": 57.17,
-      "Monthly_RSI": 56.03
+      "Current_Price": 204.28,
+      "Daily_RSI": 38.24,
+      "Weekly_RSI": 52.27,
+      "Monthly_RSI": 53.36
     },
     {
       "Symbol": "GNFC",
-      "Current_Price": 542.95,
-      "Daily_RSI": 62.23,
-      "Weekly_RSI": 59.46,
-      "Monthly_RSI": 52.31
+      "Current_Price": 568.95,
+      "Daily_RSI": 69.78,
+      "Weekly_RSI": 65.26,
+      "Monthly_RSI": 55.32
     },
     {
       "Symbol": "CCAVENUE",
-      "Current_Price": 17.17,
-      "Daily_RSI": 54.98,
-      "Weekly_RSI": 56.7,
-      "Monthly_RSI": 47.11
+      "Current_Price": 15.43,
+      "Daily_RSI": 39.58,
+      "Weekly_RSI": 48.29,
+      "Monthly_RSI": 43.05
     },
     {
       "Symbol": "WAAREERTL",
-      "Current_Price": 905.15,
-      "Daily_RSI": 32.02,
-      "Weekly_RSI": 43.34,
-      "Monthly_RSI": 43.7
+      "Current_Price": 891.7,
+      "Daily_RSI": 30.17,
+      "Weekly_RSI": 41.6,
+      "Monthly_RSI": 42.74
     },
     {
       "Symbol": "NEOGEN",
-      "Current_Price": 2031.5,
-      "Daily_RSI": 48.66,
-      "Weekly_RSI": 62.28,
-      "Monthly_RSI": 60.31
+      "Current_Price": 2138.9,
+      "Daily_RSI": 56.11,
+      "Weekly_RSI": 68.09,
+      "Monthly_RSI": 63.25
     },
     {
       "Symbol": "TIPSMUSIC",
-      "Current_Price": 645.35,
-      "Daily_RSI": 44.04,
-      "Weekly_RSI": 52.42,
-      "Monthly_RSI": 57.34
+      "Current_Price": 670.9,
+      "Daily_RSI": 49.66,
+      "Weekly_RSI": 55.73,
+      "Monthly_RSI": 59.86
     },
     {
       "Symbol": "IMFA",
-      "Current_Price": 1472.2,
-      "Daily_RSI": 59.52,
-      "Weekly_RSI": 57.33,
-      "Monthly_RSI": 64.74
+      "Current_Price": 1434.1,
+      "Daily_RSI": 51.92,
+      "Weekly_RSI": 52.61,
+      "Monthly_RSI": 62.45
     },
     {
       "Symbol": "EDELWEISS",
-      "Current_Price": 121.16,
-      "Daily_RSI": 56.34,
-      "Weekly_RSI": 52.93,
-      "Monthly_RSI": 57.88
+      "Current_Price": 121.98,
+      "Daily_RSI": 55.83,
+      "Weekly_RSI": 55.76,
+      "Monthly_RSI": 59.1
     },
     {
       "Symbol": "MANYAVAR",
-      "Current_Price": 500.35,
-      "Daily_RSI": 79.8,
-      "Weekly_RSI": 63.79,
-      "Monthly_RSI": 38.05
+      "Current_Price": 528.75,
+      "Daily_RSI": 82.13,
+      "Weekly_RSI": 65.44,
+      "Monthly_RSI": 38.96
     },
     {
       "Symbol": "RUBICON",
-      "Current_Price": 1531.9,
-      "Daily_RSI": 59.51,
-      "Weekly_RSI": 82.18,
+      "Current_Price": 1619.1,
+      "Daily_RSI": 64.07,
+      "Weekly_RSI": 83.09,
       "Monthly_RSI": null
     },
     {
       "Symbol": "LLOYDSENT",
-      "Current_Price": 83.5,
-      "Daily_RSI": 61.05,
-      "Weekly_RSI": 67.19,
-      "Monthly_RSI": 63.46
+      "Current_Price": 76.04,
+      "Daily_RSI": 43.79,
+      "Weekly_RSI": 57.36,
+      "Monthly_RSI": 59.39
     },
     {
       "Symbol": "MARKSANS",
-      "Current_Price": 273.85,
-      "Daily_RSI": 59.45,
-      "Weekly_RSI": 67.94,
-      "Monthly_RSI": 61.73
+      "Current_Price": 333.0,
+      "Daily_RSI": 76.33,
+      "Weekly_RSI": 77.87,
+      "Monthly_RSI": 67.82
     },
     {
       "Symbol": "OSWALPUMPS",
-      "Current_Price": 326.1,
-      "Daily_RSI": 28.68,
-      "Weekly_RSI": 35.99,
+      "Current_Price": 300.5,
+      "Daily_RSI": 25.76,
+      "Weekly_RSI": 33.01,
       "Monthly_RSI": NaN
     },
     {
       "Symbol": "ARVIND",
-      "Current_Price": 560.55,
-      "Daily_RSI": 62.18,
-      "Weekly_RSI": 69.72,
-      "Monthly_RSI": 68.84
+      "Current_Price": 571.85,
+      "Daily_RSI": 62.57,
+      "Weekly_RSI": 71.86,
+      "Monthly_RSI": 69.48
     },
     {
       "Symbol": "BBOX",
-      "Current_Price": 741.7,
-      "Daily_RSI": 29.64,
-      "Weekly_RSI": 48.62,
-      "Monthly_RSI": 58.78
+      "Current_Price": 795.85,
+      "Daily_RSI": 48.27,
+      "Weekly_RSI": 52.8,
+      "Monthly_RSI": 60.75
     },
     {
       "Symbol": "CMSINFO",
-      "Current_Price": 277.55,
-      "Daily_RSI": 51.34,
-      "Weekly_RSI": 39.17,
-      "Monthly_RSI": 36.87
+      "Current_Price": 265.95,
+      "Daily_RSI": 45.26,
+      "Weekly_RSI": 36.16,
+      "Monthly_RSI": 34.95
     },
     {
       "Symbol": "KIRLOSBROS",
-      "Current_Price": 1959.4,
-      "Daily_RSI": 60.23,
-      "Weekly_RSI": 57.92,
-      "Monthly_RSI": 55.53
+      "Current_Price": 1935.5,
+      "Daily_RSI": 54.91,
+      "Weekly_RSI": 58.11,
+      "Monthly_RSI": 55.61
     },
     {
       "Symbol": "DCBBANK",
-      "Current_Price": 192.62,
-      "Daily_RSI": 54.46,
-      "Weekly_RSI": 61.77,
-      "Monthly_RSI": 61.7
+      "Current_Price": 182.04,
+      "Daily_RSI": 42.59,
+      "Weekly_RSI": 51.21,
+      "Monthly_RSI": 58.8
     },
     {
       "Symbol": "RATEGAIN",
-      "Current_Price": 949.15,
-      "Daily_RSI": 56.57,
-      "Weekly_RSI": 73.08,
-      "Monthly_RSI": 66.94
+      "Current_Price": 942.6,
+      "Daily_RSI": 53.85,
+      "Weekly_RSI": 72.22,
+      "Monthly_RSI": 66.71
     },
     {
       "Symbol": "JKPAPER",
-      "Current_Price": 387.05,
-      "Daily_RSI": 55.93,
-      "Weekly_RSI": 57.52,
-      "Monthly_RSI": 53.24
+      "Current_Price": 379.9,
+      "Daily_RSI": 48.68,
+      "Weekly_RSI": 55.17,
+      "Monthly_RSI": 52.26
     },
     {
       "Symbol": "MEDPLUS",
-      "Current_Price": 690.2,
-      "Daily_RSI": 28.74,
-      "Weekly_RSI": 31.13,
-      "Monthly_RSI": 41.59
+      "Current_Price": 667.9,
+      "Daily_RSI": 26.76,
+      "Weekly_RSI": 28.4,
+      "Monthly_RSI": 39.6
     },
     {
       "Symbol": "VOLTAMP",
-      "Current_Price": 9965.0,
-      "Daily_RSI": 60.07,
-      "Weekly_RSI": 57.13,
-      "Monthly_RSI": 55.75
+      "Current_Price": 10039.5,
+      "Daily_RSI": 58.46,
+      "Weekly_RSI": 58.25,
+      "Monthly_RSI": 56.36
     },
     {
       "Symbol": "KIRLPNU",
-      "Current_Price": 1455.2,
-      "Daily_RSI": 33.84,
-      "Weekly_RSI": 48.23,
-      "Monthly_RSI": 55.08
+      "Current_Price": 1506.8,
+      "Daily_RSI": 42.65,
+      "Weekly_RSI": 52.78,
+      "Monthly_RSI": 57.14
     },
     {
       "Symbol": "JAYNECOIND",
-      "Current_Price": 92.37,
-      "Daily_RSI": 56.54,
-      "Weekly_RSI": 54.48,
-      "Monthly_RSI": 61.3
+      "Current_Price": 88.93,
+      "Daily_RSI": 48.01,
+      "Weekly_RSI": 51.01,
+      "Monthly_RSI": 60.17
     },
     {
       "Symbol": "LUMAXTECH",
-      "Current_Price": 1698.3,
-      "Daily_RSI": 72.79,
-      "Weekly_RSI": 58.06,
-      "Monthly_RSI": 66.85
+      "Current_Price": 1987.5,
+      "Daily_RSI": 76.6,
+      "Weekly_RSI": 67.64,
+      "Monthly_RSI": 71.64
     },
     {
       "Symbol": "SHILPAMED",
-      "Current_Price": 759.75,
-      "Daily_RSI": 78.29,
-      "Weekly_RSI": 86.83,
-      "Monthly_RSI": 79.4
+      "Current_Price": 807.05,
+      "Daily_RSI": 79.1,
+      "Weekly_RSI": 89.39,
+      "Monthly_RSI": 81.23
     },
     {
       "Symbol": "STAR",
-      "Current_Price": 1003.8,
-      "Daily_RSI": 41.18,
-      "Weekly_RSI": 48.49,
-      "Monthly_RSI": 55.51
+      "Current_Price": 967.8,
+      "Daily_RSI": 34.55,
+      "Weekly_RSI": 44.81,
+      "Monthly_RSI": 53.61
     },
     {
       "Symbol": "AURIONPRO",
-      "Current_Price": 730.0,
-      "Daily_RSI": 31.5,
-      "Weekly_RSI": 36.41,
-      "Monthly_RSI": 39.17
+      "Current_Price": 733.95,
+      "Daily_RSI": 36.65,
+      "Weekly_RSI": 37.22,
+      "Monthly_RSI": 39.37
     },
     {
       "Symbol": "ICIL",
-      "Current_Price": 421.55,
-      "Daily_RSI": 61.27,
-      "Weekly_RSI": 69.32,
-      "Monthly_RSI": 63.06
+      "Current_Price": 391.15,
+      "Daily_RSI": 41.63,
+      "Weekly_RSI": 57.2,
+      "Monthly_RSI": 58.35
     },
     {
       "Symbol": "SUPRIYA",
-      "Current_Price": 923.45,
-      "Daily_RSI": 58.95,
-      "Weekly_RSI": 61.93,
-      "Monthly_RSI": 61.86
+      "Current_Price": 813.5,
+      "Daily_RSI": 39.47,
+      "Weekly_RSI": 48.87,
+      "Monthly_RSI": 55.42
     },
     {
       "Symbol": "IONEXCHANG",
-      "Current_Price": 371.6,
-      "Daily_RSI": 33.76,
-      "Weekly_RSI": 45.65,
-      "Monthly_RSI": 44.19
+      "Current_Price": 377.5,
+      "Daily_RSI": 38.04,
+      "Weekly_RSI": 45.93,
+      "Monthly_RSI": 44.3
     },
     {
       "Symbol": "RALLIS",
-      "Current_Price": 214.86,
-      "Daily_RSI": 37.35,
-      "Weekly_RSI": 35.06,
-      "Monthly_RSI": 42.51
+      "Current_Price": 212.48,
+      "Daily_RSI": 38.17,
+      "Weekly_RSI": 34.85,
+      "Monthly_RSI": 42.43
     },
     {
       "Symbol": "WEBELSOLAR",
-      "Current_Price": 96.38,
-      "Daily_RSI": 43.66,
-      "Weekly_RSI": 48.8,
-      "Monthly_RSI": 50.9
+      "Current_Price": 85.1,
+      "Daily_RSI": 30.04,
+      "Weekly_RSI": 41.43,
+      "Monthly_RSI": 47.8
     },
     {
       "Symbol": "INDIAGLYCO",
-      "Current_Price": 1151.0,
-      "Daily_RSI": 58.97,
-      "Weekly_RSI": 62.72,
-      "Monthly_RSI": 64.36
+      "Current_Price": 1056.3,
+      "Daily_RSI": 39.24,
+      "Weekly_RSI": 53.74,
+      "Monthly_RSI": 60.07
     },
     {
       "Symbol": "ELLEN",
-      "Current_Price": 292.35,
-      "Daily_RSI": 58.01,
-      "Weekly_RSI": 51.96,
+      "Current_Price": 332.6,
+      "Daily_RSI": 71.36,
+      "Weekly_RSI": 60.49,
       "Monthly_RSI": NaN
     },
     {
       "Symbol": "PRUDENT",
-      "Current_Price": 3266.7,
-      "Daily_RSI": 63.94,
-      "Weekly_RSI": 70.83,
-      "Monthly_RSI": 65.87
+      "Current_Price": 3325.0,
+      "Daily_RSI": 62.26,
+      "Weekly_RSI": 65.16,
+      "Monthly_RSI": 64.2
     },
     {
       "Symbol": "SHRIPISTON",
-      "Current_Price": 4325.4,
-      "Daily_RSI": 55.04,
-      "Weekly_RSI": 72.94,
-      "Monthly_RSI": 78.01
+      "Current_Price": 4487.7,
+      "Daily_RSI": 61.64,
+      "Weekly_RSI": 74.34,
+      "Monthly_RSI": 78.74
     },
     {
       "Symbol": "INDIASHLTR",
-      "Current_Price": 734.85,
-      "Daily_RSI": 38.92,
-      "Weekly_RSI": 36.65,
-      "Monthly_RSI": 43.06
+      "Current_Price": 674.15,
+      "Daily_RSI": 34.56,
+      "Weekly_RSI": 34.15,
+      "Monthly_RSI": 41.21
     },
     {
       "Symbol": "KPIGREEN",
-      "Current_Price": 375.35,
-      "Daily_RSI": 31.78,
-      "Weekly_RSI": 39.12,
-      "Monthly_RSI": 46.32
+      "Current_Price": 319.0,
+      "Daily_RSI": 15.91,
+      "Weekly_RSI": 30.66,
+      "Monthly_RSI": 42.72
     },
     {
       "Symbol": "JSLL",
-      "Current_Price": 598.1,
-      "Daily_RSI": 56.71,
-      "Weekly_RSI": 46.05,
-      "Monthly_RSI": 42.79
+      "Current_Price": 521.35,
+      "Daily_RSI": 37.87,
+      "Weekly_RSI": 39.1,
+      "Monthly_RSI": 40.92
     },
     {
       "Symbol": "ASKAUTOLTD",
-      "Current_Price": 634.95,
-      "Daily_RSI": 70.96,
-      "Weekly_RSI": 79.59,
-      "Monthly_RSI": 69.97
+      "Current_Price": 649.45,
+      "Daily_RSI": 71.28,
+      "Weekly_RSI": 80.2,
+      "Monthly_RSI": 70.55
     },
     {
       "Symbol": "KRN",
-      "Current_Price": 1214.7,
-      "Daily_RSI": 48.98,
-      "Weekly_RSI": 57.99,
-      "Monthly_RSI": 61.18
+      "Current_Price": 1398.4,
+      "Daily_RSI": 72.75,
+      "Weekly_RSI": 70.6,
+      "Monthly_RSI": 67.45
     },
     {
       "Symbol": "CAMPUS",
-      "Current_Price": 219.0,
-      "Daily_RSI": 43.39,
-      "Weekly_RSI": 41.52,
-      "Monthly_RSI": 41.77
+      "Current_Price": 219.95,
+      "Daily_RSI": 45.38,
+      "Weekly_RSI": 38.78,
+      "Monthly_RSI": 40.63
     },
     {
       "Symbol": "CAPILLARY",
-      "Current_Price": 560.55,
-      "Daily_RSI": 61.96,
-      "Weekly_RSI": 55.74,
+      "Current_Price": 538.05,
+      "Daily_RSI": 55.04,
+      "Weekly_RSI": 50.95,
       "Monthly_RSI": null
     },
     {
       "Symbol": "KRBL",
-      "Current_Price": 378.65,
-      "Daily_RSI": 61.1,
-      "Weekly_RSI": 56.14,
-      "Monthly_RSI": 54.31
+      "Current_Price": 386.4,
+      "Daily_RSI": 64.48,
+      "Weekly_RSI": 58.18,
+      "Monthly_RSI": 55.11
     },
     {
       "Symbol": "VMART",
-      "Current_Price": 813.9,
-      "Daily_RSI": 65.26,
-      "Weekly_RSI": 62.28,
-      "Monthly_RSI": 54.69
+      "Current_Price": 807.3,
+      "Daily_RSI": 59.61,
+      "Weekly_RSI": 63.05,
+      "Monthly_RSI": 55.1
     },
     {
       "Symbol": "AKUMS",
-      "Current_Price": 697.45,
-      "Daily_RSI": 62.41,
-      "Weekly_RSI": 68.69,
-      "Monthly_RSI": 60.35
+      "Current_Price": 726.6,
+      "Daily_RSI": 61.06,
+      "Weekly_RSI": 71.03,
+      "Monthly_RSI": 62.39
     },
     {
       "Symbol": "SHAREINDIA",
-      "Current_Price": 168.44,
-      "Daily_RSI": 47.88,
-      "Weekly_RSI": 57.06,
-      "Monthly_RSI": 47.16
+      "Current_Price": 173.31,
+      "Daily_RSI": 53.0,
+      "Weekly_RSI": 59.1,
+      "Monthly_RSI": 48.21
     },
     {
       "Symbol": "HCG",
-      "Current_Price": 678.5,
-      "Daily_RSI": 59.81,
-      "Weekly_RSI": 62.25,
-      "Monthly_RSI": 62.7
+      "Current_Price": 721.4,
+      "Daily_RSI": 66.76,
+      "Weekly_RSI": 68.62,
+      "Monthly_RSI": 65.45
     },
     {
       "Symbol": "GHCL",
-      "Current_Price": 436.05,
-      "Daily_RSI": 49.17,
-      "Weekly_RSI": 41.27,
-      "Monthly_RSI": 42.16
+      "Current_Price": 431.1,
+      "Daily_RSI": 43.96,
+      "Weekly_RSI": 39.1,
+      "Monthly_RSI": 41.58
     },
     {
       "Symbol": "GOKEX",
-      "Current_Price": 796.7,
-      "Daily_RSI": 45.88,
-      "Weekly_RSI": 55.68,
-      "Monthly_RSI": 51.73
+      "Current_Price": 783.0,
+      "Daily_RSI": 44.57,
+      "Weekly_RSI": 52.71,
+      "Monthly_RSI": 50.85
     },
     {
       "Symbol": "ATLANTAELE",
-      "Current_Price": 1592.9,
-      "Daily_RSI": 43.46,
-      "Weekly_RSI": 54.41,
+      "Current_Price": 1648.9,
+      "Daily_RSI": 50.81,
+      "Weekly_RSI": 57.34,
       "Monthly_RSI": null
     },
     {
       "Symbol": "CRAMC",
-      "Current_Price": 262.1,
-      "Daily_RSI": 54.53,
-      "Weekly_RSI": 53.14,
+      "Current_Price": 256.2,
+      "Daily_RSI": 46.59,
+      "Weekly_RSI": 49.42,
       "Monthly_RSI": null
     },
     {
       "Symbol": "RBA",
-      "Current_Price": 94.92,
-      "Daily_RSI": 83.09,
-      "Weekly_RSI": 73.37,
-      "Monthly_RSI": 57.74
+      "Current_Price": 99.08,
+      "Daily_RSI": 78.73,
+      "Weekly_RSI": 75.32,
+      "Monthly_RSI": 59.35
     },
     {
       "Symbol": "HERITGFOOD",
-      "Current_Price": 358.55,
-      "Daily_RSI": 71.96,
-      "Weekly_RSI": 54.99,
-      "Monthly_RSI": 48.21
+      "Current_Price": 360.7,
+      "Daily_RSI": 69.65,
+      "Weekly_RSI": 53.43,
+      "Monthly_RSI": 47.76
     },
     {
       "Symbol": "FIEMIND",
-      "Current_Price": 2580.3,
-      "Daily_RSI": 75.46,
-      "Weekly_RSI": 72.27,
-      "Monthly_RSI": 74.04
+      "Current_Price": 2412.3,
+      "Daily_RSI": 51.95,
+      "Weekly_RSI": 56.39,
+      "Monthly_RSI": 69.82
     },
     {
       "Symbol": "AVL",
-      "Current_Price": 629.7,
-      "Daily_RSI": 52.91,
-      "Weekly_RSI": 60.92,
-      "Monthly_RSI": 63.35
+      "Current_Price": 618.85,
+      "Daily_RSI": 47.31,
+      "Weekly_RSI": 60.74,
+      "Monthly_RSI": 64.37
     },
     {
       "Symbol": "PRAJIND",
-      "Current_Price": 319.65,
-      "Daily_RSI": 43.92,
-      "Weekly_RSI": 45.21,
-      "Monthly_RSI": 42.19
+      "Current_Price": 335.25,
+      "Daily_RSI": 56.12,
+      "Weekly_RSI": 48.24,
+      "Monthly_RSI": 43.18
     },
     {
       "Symbol": "UTLSOLAR",
-      "Current_Price": 389.95,
-      "Daily_RSI": 60.54,
-      "Weekly_RSI": 71.59,
+      "Current_Price": 423.85,
+      "Daily_RSI": 69.75,
+      "Weekly_RSI": 78.11,
       "Monthly_RSI": null
     },
     {
       "Symbol": "SUDEEPPHRM",
-      "Current_Price": 957.55,
-      "Daily_RSI": 67.57,
-      "Weekly_RSI": 70.33,
+      "Current_Price": 1105.55,
+      "Daily_RSI": 77.54,
+      "Weekly_RSI": 77.16,
       "Monthly_RSI": null
     },
     {
       "Symbol": "JAMNAAUTO",
-      "Current_Price": 144.7,
-      "Daily_RSI": 66.34,
-      "Weekly_RSI": 61.78,
-      "Monthly_RSI": 62.13
+      "Current_Price": 123.12,
+      "Daily_RSI": 38.55,
+      "Weekly_RSI": 47.82,
+      "Monthly_RSI": 54.26
     },
     {
       "Symbol": "V2RETAIL",
-      "Current_Price": 218.31,
-      "Daily_RSI": 43.01,
-      "Weekly_RSI": 51.28,
-      "Monthly_RSI": 63.54
+      "Current_Price": 217.43,
+      "Daily_RSI": 43.67,
+      "Weekly_RSI": 49.78,
+      "Monthly_RSI": 62.47
     },
     {
       "Symbol": "JLHL",
-      "Current_Price": 319.25,
-      "Daily_RSI": 60.71,
-      "Weekly_RSI": 68.95,
-      "Monthly_RSI": 59.91
+      "Current_Price": 316.0,
+      "Daily_RSI": 54.56,
+      "Weekly_RSI": 66.04,
+      "Monthly_RSI": 58.76
     },
     {
       "Symbol": "RCF",
-      "Current_Price": 128.05,
-      "Daily_RSI": 49.88,
-      "Weekly_RSI": 47.03,
-      "Monthly_RSI": 46.64
+      "Current_Price": 124.05,
+      "Daily_RSI": 38.71,
+      "Weekly_RSI": 44.36,
+      "Monthly_RSI": 45.69
     },
     {
       "Symbol": "FEDFINA",
-      "Current_Price": 149.59,
-      "Daily_RSI": 44.52,
-      "Weekly_RSI": 50.68,
-      "Monthly_RSI": 56.17
+      "Current_Price": 152.21,
+      "Daily_RSI": 49.08,
+      "Weekly_RSI": 51.67,
+      "Monthly_RSI": 56.74
     },
     {
       "Symbol": "TRANSRAILL",
-      "Current_Price": 490.95,
-      "Daily_RSI": 47.53,
-      "Weekly_RSI": 41.07,
-      "Monthly_RSI": 43.4
+      "Current_Price": 468.95,
+      "Daily_RSI": 39.64,
+      "Weekly_RSI": 40.41,
+      "Monthly_RSI": 43.1
     },
     {
       "Symbol": "GMRP&UI",
-      "Current_Price": 97.49,
-      "Daily_RSI": 45.77,
-      "Weekly_RSI": 41.82,
-      "Monthly_RSI": 49.56
+      "Current_Price": 97.07,
+      "Daily_RSI": 46.44,
+      "Weekly_RSI": 41.39,
+      "Monthly_RSI": 49.39
     },
     {
       "Symbol": "CORONA",
-      "Current_Price": 2058.8,
-      "Daily_RSI": 52.86,
-      "Weekly_RSI": 72.8,
+      "Current_Price": 2113.2,
+      "Daily_RSI": 57.48,
+      "Weekly_RSI": 75.86,
       "Monthly_RSI": null
     },
     {
       "Symbol": "POWERMECH",
-      "Current_Price": 2617.0,
-      "Daily_RSI": 49.83,
-      "Weekly_RSI": 55.16,
-      "Monthly_RSI": 53.08
+      "Current_Price": 2455.2,
+      "Daily_RSI": 39.64,
+      "Weekly_RSI": 48.09,
+      "Monthly_RSI": 50.6
     },
     {
       "Symbol": "YATHARTH",
-      "Current_Price": 870.5,
-      "Daily_RSI": 60.93,
-      "Weekly_RSI": 60.61,
-      "Monthly_RSI": 63.46
+      "Current_Price": 844.7,
+      "Daily_RSI": 48.64,
+      "Weekly_RSI": 56.92,
+      "Monthly_RSI": 62.38
     },
     {
       "Symbol": "MANORAMA",
-      "Current_Price": 1636.2,
-      "Daily_RSI": 56.39,
-      "Weekly_RSI": 62.63,
-      "Monthly_RSI": 65.23
+      "Current_Price": 1737.1,
+      "Daily_RSI": 64.24,
+      "Weekly_RSI": 67.85,
+      "Monthly_RSI": 67.49
     },
     {
       "Symbol": "ENTERO",
-      "Current_Price": 1242.5,
-      "Daily_RSI": 54.57,
-      "Weekly_RSI": 54.79,
-      "Monthly_RSI": 54.87
+      "Current_Price": 1448.0,
+      "Daily_RSI": 75.52,
+      "Weekly_RSI": 64.93,
+      "Monthly_RSI": 62.8
     },
     {
       "Symbol": "PARKHOSPS",
-      "Current_Price": 292.25,
-      "Daily_RSI": 56.6,
-      "Weekly_RSI": 71.88,
+      "Current_Price": 281.1,
+      "Daily_RSI": 47.58,
+      "Weekly_RSI": 65.1,
       "Monthly_RSI": null
     },
     {
       "Symbol": "DYNAMATECH",
-      "Current_Price": 11401.0,
-      "Daily_RSI": 66.96,
-      "Weekly_RSI": 58.17,
-      "Monthly_RSI": 66.56
+      "Current_Price": 11188.0,
+      "Daily_RSI": 59.26,
+      "Weekly_RSI": 56.55,
+      "Monthly_RSI": 65.82
     },
     {
       "Symbol": "STYRENIX",
-      "Current_Price": 2257.2,
-      "Daily_RSI": 39.95,
-      "Weekly_RSI": 50.99,
-      "Monthly_RSI": 52.35
+      "Current_Price": 2183.7,
+      "Daily_RSI": 36.01,
+      "Weekly_RSI": 48.75,
+      "Monthly_RSI": 51.2
     },
     {
       "Symbol": "PGIL",
-      "Current_Price": 2221.5,
-      "Daily_RSI": 68.14,
-      "Weekly_RSI": 75.8,
-      "Monthly_RSI": 76.07
+      "Current_Price": 2464.9,
+      "Daily_RSI": 74.83,
+      "Weekly_RSI": 75.94,
+      "Monthly_RSI": 76.19
     },
     {
       "Symbol": "SFL",
-      "Current_Price": 677.4,
-      "Daily_RSI": 34.02,
-      "Weekly_RSI": 52.93,
-      "Monthly_RSI": 46.9
+      "Current_Price": 695.95,
+      "Daily_RSI": 39.89,
+      "Weekly_RSI": 55.54,
+      "Monthly_RSI": 48.01
     },
     {
       "Symbol": "ACI",
-      "Current_Price": 506.65,
-      "Daily_RSI": 36.66,
-      "Weekly_RSI": 39.9,
-      "Monthly_RSI": 41.5
+      "Current_Price": 503.3,
+      "Daily_RSI": 38.8,
+      "Weekly_RSI": 39.36,
+      "Monthly_RSI": 41.21
     },
     {
       "Symbol": "TEXRAIL",
-      "Current_Price": 108.33,
-      "Daily_RSI": 44.34,
-      "Weekly_RSI": 46.91,
-      "Monthly_RSI": 43.87
+      "Current_Price": 104.85,
+      "Daily_RSI": 38.41,
+      "Weekly_RSI": 43.41,
+      "Monthly_RSI": 42.97
     },
     {
       "Symbol": "MIDHANI",
-      "Current_Price": 434.25,
-      "Daily_RSI": 62.68,
-      "Weekly_RSI": 60.66,
-      "Monthly_RSI": 56.98
+      "Current_Price": 416.7,
+      "Daily_RSI": 50.04,
+      "Weekly_RSI": 55.66,
+      "Monthly_RSI": 55.42
     },
     {
       "Symbol": "GSFC",
-      "Current_Price": 161.22,
-      "Daily_RSI": 51.8,
-      "Weekly_RSI": 44.96,
-      "Monthly_RSI": 44.99
+      "Current_Price": 160.25,
+      "Daily_RSI": 49.15,
+      "Weekly_RSI": 44.05,
+      "Monthly_RSI": 44.66
     },
     {
       "Symbol": "JKLAKSHMI",
-      "Current_Price": 571.25,
-      "Daily_RSI": 48.16,
-      "Weekly_RSI": 36.33,
-      "Monthly_RSI": 39.43
+      "Current_Price": 549.2,
+      "Daily_RSI": 32.85,
+      "Weekly_RSI": 33.86,
+      "Monthly_RSI": 38.58
     },
     {
       "Symbol": "MSTCLTD",
-      "Current_Price": 605.2,
-      "Daily_RSI": 46.6,
-      "Weekly_RSI": 55.6,
-      "Monthly_RSI": 54.06
+      "Current_Price": 623.4,
+      "Daily_RSI": 54.36,
+      "Weekly_RSI": 58.54,
+      "Monthly_RSI": 55.97
     },
     {
       "Symbol": "JYOTHYLAB",
-      "Current_Price": 205.87,
-      "Daily_RSI": 58.25,
-      "Weekly_RSI": 41.31,
-      "Monthly_RSI": 38.48
+      "Current_Price": 199.98,
+      "Daily_RSI": 46.65,
+      "Weekly_RSI": 38.32,
+      "Monthly_RSI": 37.26
     },
     {
       "Symbol": "VAIBHAVGBL",
-      "Current_Price": 242.6,
-      "Daily_RSI": 42.32,
-      "Weekly_RSI": 53.03,
-      "Monthly_RSI": 48.4
+      "Current_Price": 228.3,
+      "Daily_RSI": 34.88,
+      "Weekly_RSI": 48.51,
+      "Monthly_RSI": 46.57
     },
     {
       "Symbol": "SMARTWORKS",
-      "Current_Price": 485.0,
-      "Daily_RSI": 54.85,
-      "Weekly_RSI": 56.76,
+      "Current_Price": 492.7,
+      "Daily_RSI": 58.23,
+      "Weekly_RSI": 57.15,
       "Monthly_RSI": null
     },
     {
       "Symbol": "AARTIDRUGS",
-      "Current_Price": 410.85,
-      "Daily_RSI": 54.16,
-      "Weekly_RSI": 57.67,
-      "Monthly_RSI": 49.25
+      "Current_Price": 416.35,
+      "Daily_RSI": 52.62,
+      "Weekly_RSI": 57.71,
+      "Monthly_RSI": 49.27
     },
     {
       "Symbol": "VARROC",
-      "Current_Price": 811.2,
-      "Daily_RSI": 83.67,
-      "Weekly_RSI": 79.31,
-      "Monthly_RSI": 68.6
+      "Current_Price": 841.95,
+      "Daily_RSI": 83.91,
+      "Weekly_RSI": 81.29,
+      "Monthly_RSI": 70.13
     },
     {
       "Symbol": "ARVINDFASN",
-      "Current_Price": 457.9,
-      "Daily_RSI": 47.96,
-      "Weekly_RSI": 49.87,
-      "Monthly_RSI": 50.38
+      "Current_Price": 449.9,
+      "Daily_RSI": 44.3,
+      "Weekly_RSI": 47.09,
+      "Monthly_RSI": 48.93
     },
     {
       "Symbol": "INDIGOPNTS",
-      "Current_Price": 1128.6,
-      "Daily_RSI": 65.97,
-      "Weekly_RSI": 62.75,
-      "Monthly_RSI": 49.26
+      "Current_Price": 1148.7,
+      "Daily_RSI": 64.35,
+      "Weekly_RSI": 64.88,
+      "Monthly_RSI": 50.25
     },
     {
       "Symbol": "PNCINFRA",
-      "Current_Price": 224.38,
-      "Daily_RSI": 40.05,
-      "Weekly_RSI": 48.76,
-      "Monthly_RSI": 42.91
+      "Current_Price": 219.39,
+      "Daily_RSI": 41.15,
+      "Weekly_RSI": 46.19,
+      "Monthly_RSI": 42.14
     },
     {
       "Symbol": "BALUFORGE",
-      "Current_Price": 458.45,
-      "Daily_RSI": 55.86,
-      "Weekly_RSI": 48.11,
-      "Monthly_RSI": 47.39
+      "Current_Price": 493.75,
+      "Daily_RSI": 64.71,
+      "Weekly_RSI": 52.65,
+      "Monthly_RSI": 48.88
     },
     {
       "Symbol": "OPTIEMUS",
-      "Current_Price": 581.2,
-      "Daily_RSI": 51.95,
-      "Weekly_RSI": 60.17,
-      "Monthly_RSI": 54.39
+      "Current_Price": 552.25,
+      "Daily_RSI": 44.71,
+      "Weekly_RSI": 59.03,
+      "Monthly_RSI": 54.33
     },
     {
       "Symbol": "PTC",
-      "Current_Price": 203.3,
-      "Daily_RSI": 75.53,
-      "Weekly_RSI": 61.49,
-      "Monthly_RSI": 60.74
+      "Current_Price": 161.47,
+      "Daily_RSI": 49.49,
+      "Weekly_RSI": 51.16,
+      "Monthly_RSI": 55.68
     },
     {
       "Symbol": "ZAGGLE",
-      "Current_Price": 206.13,
-      "Daily_RSI": 48.74,
-      "Weekly_RSI": 38.95,
-      "Monthly_RSI": 39.7
+      "Current_Price": 201.04,
+      "Daily_RSI": 42.03,
+      "Weekly_RSI": 37.41,
+      "Monthly_RSI": 39.14
     },
     {
       "Symbol": "QPOWER",
-      "Current_Price": 1124.1,
-      "Daily_RSI": 46.69,
-      "Weekly_RSI": 52.97,
-      "Monthly_RSI": 62.12
+      "Current_Price": 1249.3,
+      "Daily_RSI": 58.99,
+      "Weekly_RSI": 58.71,
+      "Monthly_RSI": 65.06
     },
     {
       "Symbol": "RELIGARE",
-      "Current_Price": 232.35,
-      "Daily_RSI": 32.65,
-      "Weekly_RSI": 45.67,
-      "Monthly_RSI": 49.83
+      "Current_Price": 234.75,
+      "Daily_RSI": 38.48,
+      "Weekly_RSI": 46.77,
+      "Monthly_RSI": 50.3
     },
     {
       "Symbol": "STYL",
-      "Current_Price": 388.35,
-      "Daily_RSI": 61.22,
-      "Weekly_RSI": 69.03,
+      "Current_Price": 417.25,
+      "Daily_RSI": 68.3,
+      "Weekly_RSI": 69.2,
       "Monthly_RSI": null
     },
     {
       "Symbol": "NETWORK18",
-      "Current_Price": 29.56,
-      "Daily_RSI": 44.0,
-      "Weekly_RSI": 37.71,
-      "Monthly_RSI": 35.06
+      "Current_Price": 29.01,
+      "Daily_RSI": 41.19,
+      "Weekly_RSI": 36.49,
+      "Monthly_RSI": 34.72
     },
     {
       "Symbol": "RTNPOWER",
-      "Current_Price": 8.68,
-      "Daily_RSI": 44.95,
-      "Weekly_RSI": 43.67,
-      "Monthly_RSI": 45.18
+      "Current_Price": 8.45,
+      "Daily_RSI": 37.13,
+      "Weekly_RSI": 40.14,
+      "Monthly_RSI": 44.47
     },
     {
       "Symbol": "PICCADIL",
-      "Current_Price": 746.2,
-      "Daily_RSI": 59.36,
-      "Weekly_RSI": 69.64,
+      "Current_Price": 660.5,
+      "Daily_RSI": 39.6,
+      "Weekly_RSI": 51.54,
       "Monthly_RSI": null
     },
     {
       "Symbol": "TRIVENI",
-      "Current_Price": 233.22,
-      "Daily_RSI": 25.61,
-      "Weekly_RSI": 31.43,
-      "Monthly_RSI": 38.32
+      "Current_Price": 266.42,
+      "Daily_RSI": 40.57,
+      "Weekly_RSI": 37.26,
+      "Monthly_RSI": 41.86
     },
     {
       "Symbol": "KSCL",
-      "Current_Price": 770.85,
-      "Daily_RSI": 26.52,
-      "Weekly_RSI": 36.15,
-      "Monthly_RSI": 42.75
+      "Current_Price": 779.95,
+      "Daily_RSI": 38.68,
+      "Weekly_RSI": 38.49,
+      "Monthly_RSI": 43.39
     },
     {
       "Symbol": "MAHSCOOTER",
-      "Current_Price": 13817.0,
-      "Daily_RSI": 64.11,
-      "Weekly_RSI": 57.35,
-      "Monthly_RSI": 59.34
+      "Current_Price": 13340.0,
+      "Daily_RSI": 52.17,
+      "Weekly_RSI": 53.11,
+      "Monthly_RSI": 57.47
     },
     {
       "Symbol": "IIFLCAPS",
-      "Current_Price": 335.45,
-      "Daily_RSI": 42.81,
-      "Weekly_RSI": 52.83,
-      "Monthly_RSI": 57.54
+      "Current_Price": 334.9,
+      "Daily_RSI": 43.19,
+      "Weekly_RSI": 53.21,
+      "Monthly_RSI": 57.69
     },
     {
       "Symbol": "EMBDL",
-      "Current_Price": 63.04,
-      "Daily_RSI": 54.14,
-      "Weekly_RSI": 50.12,
-      "Monthly_RSI": 42.77
+      "Current_Price": 62.28,
+      "Daily_RSI": 49.29,
+      "Weekly_RSI": 48.52,
+      "Monthly_RSI": 42.2
     },
     {
       "Symbol": "ALIVUS",
-      "Current_Price": 1329.8,
-      "Daily_RSI": 74.09,
-      "Weekly_RSI": 75.99,
-      "Monthly_RSI": 71.49
+      "Current_Price": 1374.6,
+      "Daily_RSI": 72.53,
+      "Weekly_RSI": 78.45,
+      "Monthly_RSI": 73.24
     },
     {
       "Symbol": "BIRLACORPN",
-      "Current_Price": 909.1,
-      "Daily_RSI": 41.32,
-      "Weekly_RSI": 44.06,
-      "Monthly_RSI": 41.19
+      "Current_Price": 902.05,
+      "Daily_RSI": 41.3,
+      "Weekly_RSI": 43.05,
+      "Monthly_RSI": 40.62
     },
     {
       "Symbol": "DATAMATICS",
-      "Current_Price": 865.15,
-      "Daily_RSI": 57.07,
-      "Weekly_RSI": 57.89,
-      "Monthly_RSI": 58.47
+      "Current_Price": 861.7,
+      "Daily_RSI": 55.9,
+      "Weekly_RSI": 58.0,
+      "Monthly_RSI": 58.52
     },
     {
       "Symbol": "AARTIPHARM",
-      "Current_Price": 685.85,
-      "Daily_RSI": 49.67,
-      "Weekly_RSI": 47.57,
-      "Monthly_RSI": 50.71
+      "Current_Price": 873.65,
+      "Daily_RSI": 76.54,
+      "Weekly_RSI": 66.28,
+      "Monthly_RSI": 59.22
     },
     {
       "Symbol": "KNRCON",
-      "Current_Price": 139.99,
-      "Daily_RSI": 70.79,
-      "Weekly_RSI": 53.27,
-      "Monthly_RSI": 38.92
+      "Current_Price": 134.58,
+      "Daily_RSI": 56.94,
+      "Weekly_RSI": 48.86,
+      "Monthly_RSI": 36.95
     },
     {
       "Symbol": "SUNTECK",
-      "Current_Price": 301.65,
-      "Daily_RSI": 44.51,
-      "Weekly_RSI": 40.46,
-      "Monthly_RSI": 40.56
+      "Current_Price": 299.35,
+      "Daily_RSI": 44.97,
+      "Weekly_RSI": 40.43,
+      "Monthly_RSI": 40.55
     },
     {
       "Symbol": "SKFINDUS",
-      "Current_Price": 2747.8,
-      "Daily_RSI": 53.43,
-      "Weekly_RSI": 59.28,
+      "Current_Price": 2723.4,
+      "Daily_RSI": 50.61,
+      "Weekly_RSI": 57.2,
       "Monthly_RSI": null
     },
     {
       "Symbol": "ETHOSLTD",
-      "Current_Price": 2824.5,
-      "Daily_RSI": 64.65,
-      "Weekly_RSI": 61.17,
-      "Monthly_RSI": 55.64
+      "Current_Price": 2808.6,
+      "Daily_RSI": 60.69,
+      "Weekly_RSI": 59.46,
+      "Monthly_RSI": 55.06
     },
     {
       "Symbol": "WELENT",
-      "Current_Price": 567.8,
-      "Daily_RSI": 36.21,
-      "Weekly_RSI": 62.3,
-      "Monthly_RSI": 60.26
+      "Current_Price": 568.25,
+      "Daily_RSI": 39.7,
+      "Weekly_RSI": 54.49,
+      "Monthly_RSI": 57.43
     },
     {
       "Symbol": "WEWORK",
-      "Current_Price": 748.2,
-      "Daily_RSI": 61.79,
-      "Weekly_RSI": 68.6,
+      "Current_Price": 719.5,
+      "Daily_RSI": 51.34,
+      "Weekly_RSI": 60.44,
       "Monthly_RSI": null
     },
     {
       "Symbol": "CELLO",
-      "Current_Price": 373.15,
-      "Daily_RSI": 55.14,
-      "Weekly_RSI": 40.23,
-      "Monthly_RSI": 32.07
+      "Current_Price": 377.6,
+      "Daily_RSI": 55.83,
+      "Weekly_RSI": 41.41,
+      "Monthly_RSI": 32.64
     },
     {
       "Symbol": "ANUP",
-      "Current_Price": 1896.0,
-      "Daily_RSI": 30.74,
-      "Weekly_RSI": 43.9,
-      "Monthly_RSI": 46.92
+      "Current_Price": 1852.8,
+      "Daily_RSI": 31.26,
+      "Weekly_RSI": 43.0,
+      "Monthly_RSI": 46.48
     },
     {
       "Symbol": "IXIGO",
-      "Current_Price": 176.25,
-      "Daily_RSI": 37.94,
-      "Weekly_RSI": 45.05,
-      "Monthly_RSI": 45.76
+      "Current_Price": 174.03,
+      "Daily_RSI": 38.74,
+      "Weekly_RSI": 44.57,
+      "Monthly_RSI": 45.23
     },
     {
       "Symbol": "REDTAPE",
-      "Current_Price": 139.97,
-      "Daily_RSI": 67.65,
-      "Weekly_RSI": 57.64,
-      "Monthly_RSI": 36.57
+      "Current_Price": 124.19,
+      "Daily_RSI": 38.89,
+      "Weekly_RSI": 44.55,
+      "Monthly_RSI": 34.54
     },
     {
       "Symbol": "KANSAINER",
-      "Current_Price": 211.12,
-      "Daily_RSI": 58.09,
-      "Weekly_RSI": 52.99,
-      "Monthly_RSI": 44.44
+      "Current_Price": 209.12,
+      "Daily_RSI": 53.51,
+      "Weekly_RSI": 48.72,
+      "Monthly_RSI": 42.29
     },
     {
       "Symbol": "KSB",
-      "Current_Price": 788.05,
-      "Daily_RSI": 23.68,
-      "Weekly_RSI": 42.12,
-      "Monthly_RSI": 50.45
+      "Current_Price": 802.8,
+      "Daily_RSI": 36.44,
+      "Weekly_RSI": 44.51,
+      "Monthly_RSI": 51.35
     },
     {
       "Symbol": "ASHOKA",
-      "Current_Price": 118.33,
-      "Daily_RSI": 33.68,
-      "Weekly_RSI": 37.41,
-      "Monthly_RSI": 41.68
+      "Current_Price": 112.39,
+      "Daily_RSI": 23.88,
+      "Weekly_RSI": 34.0,
+      "Monthly_RSI": 40.75
     },
     {
       "Symbol": "ORKLAINDIA",
-      "Current_Price": 559.35,
-      "Daily_RSI": 36.58,
-      "Weekly_RSI": 38.22,
+      "Current_Price": 549.75,
+      "Daily_RSI": 37.49,
+      "Weekly_RSI": 34.66,
       "Monthly_RSI": null
     },
     {
       "Symbol": "DBL",
-      "Current_Price": 455.25,
-      "Daily_RSI": 58.68,
-      "Weekly_RSI": 52.31,
-      "Monthly_RSI": 50.97
+      "Current_Price": 413.9,
+      "Daily_RSI": 42.68,
+      "Weekly_RSI": 44.26,
+      "Monthly_RSI": 46.7
     },
     {
       "Symbol": "TARC",
-      "Current_Price": 130.78,
-      "Daily_RSI": 53.13,
-      "Weekly_RSI": 47.75,
-      "Monthly_RSI": 46.77
+      "Current_Price": 126.77,
+      "Daily_RSI": 45.16,
+      "Weekly_RSI": 44.13,
+      "Monthly_RSI": 45.51
     },
     {
       "Symbol": "TARC",
-      "Current_Price": 130.78,
-      "Daily_RSI": 53.13,
-      "Weekly_RSI": 47.75,
-      "Monthly_RSI": 46.77
+      "Current_Price": 126.77,
+      "Daily_RSI": 45.16,
+      "Weekly_RSI": 44.13,
+      "Monthly_RSI": 45.51
     },
     {
       "Symbol": "FINPIPE",
-      "Current_Price": 164.43,
-      "Daily_RSI": 45.34,
-      "Weekly_RSI": 42.62,
-      "Monthly_RSI": 42.79
+      "Current_Price": 159.24,
+      "Daily_RSI": 39.36,
+      "Weekly_RSI": 39.35,
+      "Monthly_RSI": 41.54
     },
     {
       "Symbol": "THOMASCOOK",
-      "Current_Price": 104.13,
-      "Daily_RSI": 51.32,
-      "Weekly_RSI": 46.73,
-      "Monthly_RSI": 41.17
+      "Current_Price": 108.0,
+      "Daily_RSI": 56.94,
+      "Weekly_RSI": 48.24,
+      "Monthly_RSI": 41.77
     },
     {
       "Symbol": "IFBIND",
-      "Current_Price": 1440.9,
-      "Daily_RSI": 68.01,
-      "Weekly_RSI": 59.94,
-      "Monthly_RSI": 51.69
+      "Current_Price": 1386.0,
+      "Daily_RSI": 56.16,
+      "Weekly_RSI": 58.08,
+      "Monthly_RSI": 51.22
     },
     {
       "Symbol": "ORIENTCEM",
-      "Current_Price": 138.17,
-      "Daily_RSI": 52.31,
-      "Weekly_RSI": 40.66,
-      "Monthly_RSI": 36.09
+      "Current_Price": 132.76,
+      "Daily_RSI": 41.41,
+      "Weekly_RSI": 37.6,
+      "Monthly_RSI": 35.44
     },
     {
       "Symbol": "ADVENZYMES",
-      "Current_Price": 329.8,
-      "Daily_RSI": 53.42,
-      "Weekly_RSI": 49.99,
-      "Monthly_RSI": 50.43
+      "Current_Price": 304.3,
+      "Daily_RSI": 41.3,
+      "Weekly_RSI": 43.69,
+      "Monthly_RSI": 47.63
     },
     {
       "Symbol": "AWFIS",
-      "Current_Price": 271.65,
-      "Daily_RSI": 36.48,
-      "Weekly_RSI": 34.08,
-      "Monthly_RSI": 30.34
+      "Current_Price": 266.55,
+      "Daily_RSI": 36.45,
+      "Weekly_RSI": 33.49,
+      "Monthly_RSI": 30.05
     },
     {
       "Symbol": "APLLTD",
-      "Current_Price": 830.1,
-      "Daily_RSI": 59.8,
-      "Weekly_RSI": 59.28,
-      "Monthly_RSI": 49.91
+      "Current_Price": 831.2,
+      "Daily_RSI": 58.25,
+      "Weekly_RSI": 59.5,
+      "Monthly_RSI": 49.98
     },
     {
       "Symbol": "GMMPFAUDLR",
-      "Current_Price": 979.85,
-      "Daily_RSI": 80.08,
-      "Weekly_RSI": 60.92,
-      "Monthly_RSI": 46.38
+      "Current_Price": 1012.9,
+      "Daily_RSI": 80.99,
+      "Weekly_RSI": 65.26,
+      "Monthly_RSI": 48.48
     },
     {
       "Symbol": "ELECTCAST",
-      "Current_Price": 72.26,
-      "Daily_RSI": 43.72,
-      "Weekly_RSI": 43.5,
-      "Monthly_RSI": 41.43
+      "Current_Price": 71.95,
+      "Daily_RSI": 46.76,
+      "Weekly_RSI": 43.13,
+      "Monthly_RSI": 41.27
     },
     {
       "Symbol": "KITEX",
-      "Current_Price": 144.74,
-      "Daily_RSI": 37.4,
-      "Weekly_RSI": 39.78,
-      "Monthly_RSI": 46.24
+      "Current_Price": 138.89,
+      "Daily_RSI": 36.45,
+      "Weekly_RSI": 35.53,
+      "Monthly_RSI": 44.45
     },
     {
       "Symbol": "NESCO",
-      "Current_Price": 1047.1,
-      "Daily_RSI": 42.75,
-      "Weekly_RSI": 42.11,
-      "Monthly_RSI": 49.53
+      "Current_Price": 1041.2,
+      "Daily_RSI": 41.68,
+      "Weekly_RSI": 41.0,
+      "Monthly_RSI": 49.06
     },
     {
       "Symbol": "EPL",
-      "Current_Price": 228.98,
-      "Daily_RSI": 45.51,
-      "Weekly_RSI": 51.01,
-      "Monthly_RSI": 53.82
+      "Current_Price": 247.24,
+      "Daily_RSI": 64.23,
+      "Weekly_RSI": 60.77,
+      "Monthly_RSI": 58.34
     },
     {
       "Symbol": "SKFINDIA",
-      "Current_Price": 1519.2,
-      "Daily_RSI": 49.59,
-      "Weekly_RSI": 36.39,
-      "Monthly_RSI": 32.38
+      "Current_Price": 1606.3,
+      "Daily_RSI": 65.8,
+      "Weekly_RSI": 39.81,
+      "Monthly_RSI": 33.02
     },
     {
       "Symbol": "BANCOINDIA",
-      "Current_Price": 681.85,
-      "Daily_RSI": 60.27,
-      "Weekly_RSI": 56.38,
-      "Monthly_RSI": 60.05
+      "Current_Price": 626.8,
+      "Daily_RSI": 42.58,
+      "Weekly_RSI": 47.53,
+      "Monthly_RSI": 56.13
     },
     {
       "Symbol": "RENUKA",
-      "Current_Price": 22.12,
-      "Daily_RSI": 46.54,
-      "Weekly_RSI": 38.63,
-      "Monthly_RSI": 36.51
+      "Current_Price": 21.95,
+      "Daily_RSI": 44.56,
+      "Weekly_RSI": 37.73,
+      "Monthly_RSI": 36.08
     },
     {
       "Symbol": "GODREJAGRO",
-      "Current_Price": 542.85,
-      "Daily_RSI": 40.13,
-      "Weekly_RSI": 41.84,
-      "Monthly_RSI": 44.27
+      "Current_Price": 580.5,
+      "Daily_RSI": 61.43,
+      "Weekly_RSI": 52.47,
+      "Monthly_RSI": 47.56
     },
     {
       "Symbol": "EUREKAFORB",
-      "Current_Price": 450.55,
-      "Daily_RSI": 47.13,
-      "Weekly_RSI": 43.31,
-      "Monthly_RSI": 41.17
+      "Current_Price": 443.2,
+      "Daily_RSI": 44.32,
+      "Weekly_RSI": 41.81,
+      "Monthly_RSI": 40.39
     },
     {
       "Symbol": "SURYAROSNI",
-      "Current_Price": 250.73,
-      "Daily_RSI": 57.03,
-      "Weekly_RSI": 51.45,
-      "Monthly_RSI": 49.49
+      "Current_Price": 222.85,
+      "Daily_RSI": 30.25,
+      "Weekly_RSI": 41.4,
+      "Monthly_RSI": 45.57
     },
     {
       "Symbol": "AGARWALEYE",
-      "Current_Price": 546.25,
-      "Daily_RSI": 76.27,
-      "Weekly_RSI": 68.82,
-      "Monthly_RSI": 62.34
+      "Current_Price": 508.5,
+      "Daily_RSI": 52.74,
+      "Weekly_RSI": 57.4,
+      "Monthly_RSI": 57.81
     },
     {
       "Symbol": "PRSMJOHNSN",
-      "Current_Price": 111.56,
-      "Daily_RSI": 49.51,
-      "Weekly_RSI": 38.49,
-      "Monthly_RSI": 40.37
+      "Current_Price": 105.43,
+      "Daily_RSI": 36.98,
+      "Weekly_RSI": 32.0,
+      "Monthly_RSI": 37.62
     },
     {
       "Symbol": "PURVA",
-      "Current_Price": 209.41,
-      "Daily_RSI": 42.52,
-      "Weekly_RSI": 46.68,
-      "Monthly_RSI": 44.8
+      "Current_Price": 217.89,
+      "Daily_RSI": 53.75,
+      "Weekly_RSI": 49.73,
+      "Monthly_RSI": 45.88
     },
     {
       "Symbol": "ALKYLAMINE",
-      "Current_Price": 1921.9,
-      "Daily_RSI": 60.27,
-      "Weekly_RSI": 61.97,
-      "Monthly_RSI": 51.7
+      "Current_Price": 1923.1,
+      "Daily_RSI": 57.56,
+      "Weekly_RSI": 63.08,
+      "Monthly_RSI": 52.24
     },
     {
       "Symbol": "MAHSEAMLES",
-      "Current_Price": 583.8,
-      "Daily_RSI": 47.32,
-      "Weekly_RSI": 47.02,
-      "Monthly_RSI": 48.8
+      "Current_Price": 612.0,
+      "Daily_RSI": 60.07,
+      "Weekly_RSI": 53.95,
+      "Monthly_RSI": 50.8
     },
     {
       "Symbol": "CRIZAC",
-      "Current_Price": 187.98,
-      "Daily_RSI": 43.81,
-      "Weekly_RSI": 38.36,
+      "Current_Price": 180.31,
+      "Daily_RSI": 36.19,
+      "Weekly_RSI": 35.61,
       "Monthly_RSI": null
     },
     {
       "Symbol": "CERA",
-      "Current_Price": 6062.0,
-      "Daily_RSI": 44.73,
-      "Weekly_RSI": 58.12,
-      "Monthly_RSI": 50.57
+      "Current_Price": 5925.5,
+      "Daily_RSI": 40.24,
+      "Weekly_RSI": 53.17,
+      "Monthly_RSI": 49.0
     },
     {
       "Symbol": "BAJAJELEC",
-      "Current_Price": 382.5,
-      "Daily_RSI": 78.79,
-      "Weekly_RSI": 51.54,
-      "Monthly_RSI": 34.31
+      "Current_Price": 356.6,
+      "Daily_RSI": 57.91,
+      "Weekly_RSI": 48.86,
+      "Monthly_RSI": 33.38
     },
     {
       "Symbol": "RTNINDIA",
-      "Current_Price": 31.47,
-      "Daily_RSI": 42.78,
-      "Weekly_RSI": 41.97,
-      "Monthly_RSI": 40.2
+      "Current_Price": 30.41,
+      "Daily_RSI": 37.97,
+      "Weekly_RSI": 38.37,
+      "Monthly_RSI": 39.11
     },
     {
       "Symbol": "STARCEMENT",
-      "Current_Price": 203.34,
-      "Daily_RSI": 42.97,
-      "Weekly_RSI": 39.89,
-      "Monthly_RSI": 47.59
+      "Current_Price": 201.3,
+      "Daily_RSI": 42.99,
+      "Weekly_RSI": 38.67,
+      "Monthly_RSI": 47.08
     },
     {
       "Symbol": "TVSSCS",
-      "Current_Price": 132.38,
-      "Daily_RSI": 44.52,
-      "Weekly_RSI": 56.0,
-      "Monthly_RSI": 48.3
+      "Current_Price": 123.39,
+      "Daily_RSI": 34.32,
+      "Weekly_RSI": 48.98,
+      "Monthly_RSI": 44.97
     },
     {
       "Symbol": "ALOKINDS",
-      "Current_Price": 11.98,
-      "Daily_RSI": 40.47,
-      "Weekly_RSI": 38.3,
-      "Monthly_RSI": 37.14
+      "Current_Price": 11.71,
+      "Daily_RSI": 33.04,
+      "Weekly_RSI": 36.2,
+      "Monthly_RSI": 36.4
     },
     {
       "Symbol": "DBREALTY",
-      "Current_Price": 111.74,
-      "Daily_RSI": 44.35,
-      "Weekly_RSI": 50.3,
-      "Monthly_RSI": 45.57
+      "Current_Price": 111.91,
+      "Daily_RSI": 44.8,
+      "Weekly_RSI": 47.05,
+      "Monthly_RSI": 44.35
     },
     {
       "Symbol": "VIPIND",
-      "Current_Price": 314.5,
-      "Daily_RSI": 58.85,
-      "Weekly_RSI": 46.6,
-      "Monthly_RSI": 38.59
+      "Current_Price": 307.7,
+      "Daily_RSI": 50.95,
+      "Weekly_RSI": 41.36,
+      "Monthly_RSI": 35.76
     },
     {
       "Symbol": "HGINFRA",
-      "Current_Price": 552.3,
-      "Daily_RSI": 50.05,
-      "Weekly_RSI": 40.77,
-      "Monthly_RSI": 36.25
+      "Current_Price": 523.75,
+      "Daily_RSI": 36.76,
+      "Weekly_RSI": 37.58,
+      "Monthly_RSI": 35.17
     },
     {
       "Symbol": "JAIBALAJI",
-      "Current_Price": 62.93,
-      "Daily_RSI": 47.95,
-      "Weekly_RSI": 46.27,
-      "Monthly_RSI": 41.46
+      "Current_Price": 70.6,
+      "Daily_RSI": 63.55,
+      "Weekly_RSI": 50.96,
+      "Monthly_RSI": 43.08
     },
     {
       "Symbol": "SAFARI",
-      "Current_Price": 1490.8,
-      "Daily_RSI": 36.7,
-      "Weekly_RSI": 40.83,
-      "Monthly_RSI": 40.55
+      "Current_Price": 1492.4,
+      "Daily_RSI": 38.65,
+      "Weekly_RSI": 41.54,
+      "Monthly_RSI": 40.8
     },
     {
       "Symbol": "HEMIPROP",
-      "Current_Price": 138.04,
-      "Daily_RSI": 51.91,
-      "Weekly_RSI": 50.33,
-      "Monthly_RSI": 48.99
+      "Current_Price": 132.34,
+      "Daily_RSI": 38.23,
+      "Weekly_RSI": 45.7,
+      "Monthly_RSI": 47.11
     },
     {
       "Symbol": "NFL",
-      "Current_Price": 72.5,
-      "Daily_RSI": 48.62,
-      "Weekly_RSI": 41.34,
-      "Monthly_RSI": 43.16
+      "Current_Price": 71.81,
+      "Daily_RSI": 45.2,
+      "Weekly_RSI": 41.11,
+      "Monthly_RSI": 43.1
     },
     {
       "Symbol": "CENTURYPLY",
-      "Current_Price": 783.75,
-      "Daily_RSI": 52.07,
-      "Weekly_RSI": 53.09,
-      "Monthly_RSI": 53.07
+      "Current_Price": 763.7,
+      "Daily_RSI": 42.61,
+      "Weekly_RSI": 47.65,
+      "Monthly_RSI": 50.98
     },
     {
       "Symbol": "TSFINV",
-      "Current_Price": 437.7,
-      "Daily_RSI": 45.91,
-      "Weekly_RSI": 54.16,
-      "Monthly_RSI": 56.06
+      "Current_Price": 415.45,
+      "Daily_RSI": 36.45,
+      "Weekly_RSI": 48.21,
+      "Monthly_RSI": 53.54
     },
     {
       "Symbol": "AHLUCONT",
-      "Current_Price": 829.25,
-      "Daily_RSI": 48.59,
-      "Weekly_RSI": 48.06,
-      "Monthly_RSI": 47.75
+      "Current_Price": 819.95,
+      "Daily_RSI": 46.67,
+      "Weekly_RSI": 50.52,
+      "Monthly_RSI": 48.43
     },
     {
       "Symbol": "SANOFICONR",
-      "Current_Price": 4533.8,
-      "Daily_RSI": 43.07,
-      "Weekly_RSI": 48.32,
-      "Monthly_RSI": 46.81
+      "Current_Price": 4471.7,
+      "Daily_RSI": 38.97,
+      "Weekly_RSI": 46.24,
+      "Monthly_RSI": 45.52
     },
     {
       "Symbol": "SUBROS",
-      "Current_Price": 828.7,
-      "Daily_RSI": 59.57,
-      "Weekly_RSI": 55.53,
-      "Monthly_RSI": 54.48
+      "Current_Price": 758.85,
+      "Daily_RSI": 37.2,
+      "Weekly_RSI": 46.53,
+      "Monthly_RSI": 50.99
     },
     {
       "Symbol": "SAATVIKGL",
-      "Current_Price": 427.65,
-      "Daily_RSI": 40.32,
-      "Weekly_RSI": 46.26,
+      "Current_Price": 427.4,
+      "Daily_RSI": 43.86,
+      "Weekly_RSI": 47.22,
       "Monthly_RSI": null
     }
   ]
